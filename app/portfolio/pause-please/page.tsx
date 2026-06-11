@@ -406,22 +406,21 @@ export default function PausePleaseCaseStudy() {
         />
         <FadeIn className="relative z-10 mx-auto max-w-[760px] px-6 text-center">
           <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.petal, marginBottom: 28 }}>
-            Brand Philosophy
+            Client Love
           </p>
           <blockquote
             style={{
               fontFamily: "var(--font-cormorant)",
               fontSize: "clamp(1.65rem, 3vw, 2.3rem)",
-              fontStyle: "italic",
               lineHeight: 1.18,
               letterSpacing: "-0.02em",
               color: PP.ivory,
             }}
           >
-            &ldquo;Soft, grounded femininity — balanced, wholesome, and ready to bloom with just the right light and care.&rdquo;
+            &ldquo;When she shared the final work it brought a tear to my eye. She truly captured everything — the words, the aesthetic, all of it.&rdquo;
           </blockquote>
           <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 9, letterSpacing: "0.26em", color: `${PP.petal}80`, marginTop: 24 }}>
-            — PAUSE PLEASE BRAND GUIDE
+            — KAYLYNN B., OWNER OF PAUSE PLEASE
           </p>
         </FadeIn>
       </section>

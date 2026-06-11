@@ -38,14 +38,16 @@ function FadeIn({
   );
 }
 
-const services = [
-  "Audience Research",
-  "Brand Substance",
+const eastonServices = [
+  "Brand DNA",
+  "Audience Persona Creation",
+  "Competitive Analysis",
   "Positioning Strategy",
-  "Messaging Framework",
-  "Brand Voice",
-  "Brand Rename",
-  "Creative Direction",
+  "Brand Rename & Tagline",
+  "Brand Voice & Personality",
+  "Messaging",
+  "Storytelling Frameworks",
+  "Creative Direction for Visual Identity",
 ];
 
 const palette = [
@@ -169,13 +171,13 @@ export default function PausePleaseCaseStudy() {
       <section style={{ background: PP.ivory, color: PP.onyx }}>
         <div className="mx-auto grid max-w-[1400px] gap-14 px-6 py-20 lg:grid-cols-[280px_1fr] lg:px-16 lg:py-28">
 
-          {/* Services */}
+          {/* Credits */}
           <FadeIn>
-            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 24 }}>
-              Services
+            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 20 }}>
+              Easton Smiskey
             </p>
             <ul className="space-y-3">
-              {services.map((s) => (
+              {eastonServices.map((s) => (
                 <li key={s} className="flex items-start gap-3" style={{ fontSize: 13, lineHeight: 1.7, color: PP.onyx }}>
                   <span style={{ color: PP.peony, marginTop: 2, flexShrink: 0 }}>—</span>
                   {s}
@@ -183,6 +185,13 @@ export default function PausePleaseCaseStudy() {
               ))}
             </ul>
             <div className="mt-10 border-t pt-8" style={{ borderColor: `${PP.peony}30` }}>
+              <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 20 }}>
+                Lydia Ven Jon
+              </p>
+              <p style={{ fontSize: 13, lineHeight: 1.7, color: PP.onyx }}>Visual Identity &amp; Brand Photography</p>
+              <p style={{ fontSize: 12, color: `${PP.onyx}60`, marginTop: 4 }}>Venlo Studios</p>
+            </div>
+            <div className="mt-8 border-t pt-8" style={{ borderColor: `${PP.peony}30` }}>
               <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.22em", textTransform: "uppercase", color: `${PP.onyx}60`, marginBottom: 6 }}>
                 Client
               </p>
@@ -191,18 +200,11 @@ export default function PausePleaseCaseStudy() {
                 Year
               </p>
               <p style={{ fontSize: 14, color: PP.onyx }}>2025</p>
-              <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.22em", textTransform: "uppercase", color: `${PP.onyx}60`, marginTop: 16, marginBottom: 6 }}>
-                Strategy
-              </p>
-              <p style={{ fontSize: 14, color: PP.onyx }}>Easton Smiskey</p>
             </div>
           </FadeIn>
 
           {/* Description */}
           <FadeIn delay={0.1}>
-            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 24 }}>
-              The Project
-            </p>
             <h2
               style={{
                 fontFamily: "var(--font-cormorant)",
@@ -210,21 +212,46 @@ export default function PausePleaseCaseStudy() {
                 lineHeight: 1.06,
                 letterSpacing: "-0.03em",
                 color: PP.onyx,
-                marginBottom: 24,
+                marginBottom: 32,
               }}
             >
-              Built by women, for women — a guide through life&apos;s in-between seasons.
+              A guide through life&apos;s in-between seasons.
             </h2>
-            <div className="space-y-4" style={{ fontSize: 14, lineHeight: 1.85, color: `${PP.onyx}b0` }}>
-              <p>
-                Pause Please is an Ayurveda and restorative yoga wellness brand centered on soft, meaningful healing and resilience that unfolds slowly — one breath, one moment at a time.
-              </p>
-              <p>
-                Our work covered the full strategic foundation: deep audience research to understand who she truly serves, competitive positioning to carve out clear white space in a crowded wellness market, a complete brand rename, and creative direction that gave the visual identity a clear emotional logic to grow from.
-              </p>
-              <p>
-                The result is a brand that doesn&apos;t try to speak to everyone. It speaks so clearly to the right women that the wrong ones disqualify themselves — less selling, less explaining, less time on calls that go nowhere.
-              </p>
+            <div className="grid gap-10 lg:grid-cols-2 lg:items-start">
+              <div className="relative overflow-hidden rounded-[4px]">
+                <Image
+                  src="/pause-please/photos/pp-portrait.jpg"
+                  alt="Kaylynn — founder of Pause Please"
+                  width={1200}
+                  height={1500}
+                  style={{ width: "100%", height: "auto", display: "block" }}
+                />
+                <div className="absolute inset-0 flex items-center justify-center">
+                  <div className="relative" style={{ width: "78%" }}>
+                    <Image
+                      src="/pause-please/logos/Pause-Please-Primary-Logo-Peony-transparent.png"
+                      alt="Pause Please"
+                      width={520}
+                      height={260}
+                      style={{ width: "100%", height: "auto", opacity: 0.14 }}
+                    />
+                  </div>
+                </div>
+              </div>
+              <div className="space-y-8" style={{ fontSize: 14, lineHeight: 1.85, color: `${PP.onyx}b0` }}>
+                <div>
+                  <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.22em", textTransform: "uppercase", color: PP.peony, marginBottom: 10 }}>The Positioning</p>
+                  <p>
+                    In the space between overwhelm and what&apos;s next, Pause Please meets women in the quiet pause — between roles, between chapters — and guides them home to the only guide that&apos;s never left: their body. Not by doing more. By coming back to who they truly are.
+                  </p>
+                </div>
+                <div>
+                  <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.22em", textTransform: "uppercase", color: PP.peony, marginBottom: 10 }}>The Messaging</p>
+                  <p>
+                    For the woman ready to take up space. To say yes to what fills her — and less to what doesn&apos;t. To reclaim her voice, her rest, her passions. Because the path forward has always been inside her.
+                  </p>
+                </div>
+              </div>
             </div>
           </FadeIn>
         </div>
@@ -321,50 +348,23 @@ export default function PausePleaseCaseStudy() {
               Brand Guide
             </p>
             <h2 style={{ fontFamily: "var(--font-cormorant)", fontSize: "clamp(2rem, 3vw, 2.6rem)", lineHeight: 1.06, letterSpacing: "-0.03em", color: PP.ivory, marginBottom: 48 }}>
-              Every rule, every reason, documented.
+              Intentionally Designed
             </h2>
           </FadeIn>
 
-          {/* Cover page — full width */}
-          <FadeIn>
-            <div className="overflow-hidden rounded-[4px]" style={{ boxShadow: "0 32px 80px rgba(0,0,0,0.55), 0 8px 24px rgba(0,0,0,0.35)" }}>
-              <Image
-                src="/pause-please/guide/pp-guide-cover.png"
-                alt="Pause Please Brand Guide — Cover"
-                width={2400}
-                height={1350}
-                style={{ width: "100%", height: "auto", display: "block" }}
-              />
-            </div>
-          </FadeIn>
-
-          {/* Inspiration & Purpose — logo anatomy breakdown */}
-          <FadeIn delay={0.05}>
-            <div className="mt-4 overflow-hidden rounded-[4px]" style={{ boxShadow: "0 24px 60px rgba(0,0,0,0.5), 0 6px 18px rgba(0,0,0,0.3)" }}>
-              <Image
-                src="/pause-please/guide/pp-guide-purpose.png"
-                alt="Pause Please Brand Guide — Inspiration & Purpose"
-                width={2400}
-                height={1350}
-                style={{ width: "100%", height: "auto", display: "block" }}
-              />
-            </div>
-          </FadeIn>
-
-          {/* Interior spreads — logo suite + colors side by side */}
-          <div className="mt-4 grid gap-4 sm:grid-cols-2">
-            <FadeIn delay={0.05}>
+          <div className="flex flex-col gap-4">
+            <FadeIn>
               <div className="overflow-hidden rounded-[4px]" style={{ boxShadow: "0 24px 60px rgba(0,0,0,0.5), 0 6px 18px rgba(0,0,0,0.3)" }}>
                 <Image
-                  src="/pause-please/guide/pp-guide-logos.png"
-                  alt="Pause Please Brand Guide — Logo Suite"
+                  src="/pause-please/guide/pp-guide-purpose.png"
+                  alt="Pause Please Brand Guide — Logo Anatomy"
                   width={2400}
                   height={1350}
                   style={{ width: "100%", height: "auto", display: "block" }}
                 />
               </div>
             </FadeIn>
-            <FadeIn delay={0.1}>
+            <FadeIn delay={0.08}>
               <div className="overflow-hidden rounded-[4px]" style={{ boxShadow: "0 24px 60px rgba(0,0,0,0.5), 0 6px 18px rgba(0,0,0,0.3)" }}>
                 <Image
                   src="/pause-please/guide/pp-guide-colors.png"
@@ -383,12 +383,9 @@ export default function PausePleaseCaseStudy() {
       <section style={{ background: PP.petal }}>
         <div className="mx-auto max-w-[1400px] px-6 py-20 lg:px-16 lg:py-28">
           <FadeIn>
-            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.fern, marginBottom: 12 }}>
-              Brand in the World
+            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.fern, marginBottom: 48 }}>
+              Products
             </p>
-            <h2 style={{ fontFamily: "var(--font-cormorant)", fontSize: "clamp(2rem, 3vw, 2.6rem)", lineHeight: 1.06, letterSpacing: "-0.03em", color: PP.onyx, marginBottom: 48 }}>
-              Imagine your brand out in the wild.
-            </h2>
           </FadeIn>
 
           {/* Row 1 — two side by side */}

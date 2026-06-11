@@ -366,29 +366,20 @@ export default function PausePleaseCaseStudy() {
               Brand Photography
             </p>
           </FadeIn>
-          <div className="grid gap-4 sm:grid-cols-12">
-            <FadeIn className="sm:col-span-7">
-              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 500 }}>
-                <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder with coffee mug" fill sizes="(max-width:640px) 100vw, 58vw" className="object-cover object-top" />
-              </div>
+          <div className="grid gap-4 sm:grid-cols-2" style={{ marginBottom: 16 }}>
+            <FadeIn>
+              <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder with coffee mug" width={1200} height={1500} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
             </FadeIn>
-            <FadeIn delay={0.08} className="sm:col-span-5 flex flex-col gap-4">
-              <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
-                <Image src="/pause-please/photos/venlo-studio-3496.jpg" alt="Founder in kitchen" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
-              </div>
-              <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
-                <Image src="/pause-please/photos/pp-bouquet.jpg" alt="Peony bouquet" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
-              </div>
+            <FadeIn delay={0.08}>
+              <Image src="/pause-please/photos/venlo-studio-3496.jpg" alt="Founder in kitchen" width={1600} height={1067} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
             </FadeIn>
-            <FadeIn delay={0.05} className="sm:col-span-8">
-              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
-                <Image src="/pause-please/photos/venlo-studio-3333.jpg" alt="Ayurveda oils and wellness ritual" fill sizes="(max-width:640px) 100vw, 67vw" className="object-cover object-center" />
-              </div>
+          </div>
+          <div className="grid gap-4 sm:grid-cols-2">
+            <FadeIn delay={0.05}>
+              <Image src="/pause-please/photos/venlo-studio-3333.jpg" alt="Ayurveda oils and wellness ritual" width={1600} height={1067} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
             </FadeIn>
-            <FadeIn delay={0.12} className="sm:col-span-4">
-              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
-                <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" fill sizes="(max-width:640px) 100vw, 33vw" className="object-cover object-top" />
-              </div>
+            <FadeIn delay={0.1}>
+              <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" width={1200} height={1500} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
             </FadeIn>
           </div>
         </div>

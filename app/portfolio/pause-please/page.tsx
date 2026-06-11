@@ -89,7 +89,7 @@ const mockups = [
 
 export default function PausePleaseCaseStudy() {
   return (
-    <main style={{ background: PP.onyx, color: PP.ivory }}>
+    <main style={{ background: PP.onyx, color: PP.ivory, fontFamily: "var(--font-outfit)" }}>
 
       {/* ── Floating nav ── */}
       <nav className="fixed inset-x-0 top-0 z-50 flex items-center justify-between px-6 py-5 lg:px-10"

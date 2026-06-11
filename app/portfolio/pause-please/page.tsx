@@ -104,7 +104,7 @@ export default function PausePleaseCaseStudy() {
           The Unedit
         </Link>
         <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.22em", textTransform: "uppercase", color: "rgba(241,231,222,0.4)" }}>
-          Portfolio
+          Our Work
         </p>
       </nav>
 

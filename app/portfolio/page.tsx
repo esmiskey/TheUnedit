@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
 import { motion, useScroll, useSpring } from "framer-motion";
-import { ArrowRight, ArrowUpRight, Mail } from "lucide-react";
+import { ArrowRight, ArrowUpRight } from "lucide-react";
 import logoImage from "../../LogoHeader.png";
 
 const BOOKING_URL = "https://cal.com/the-unedit-agency/20min";
@@ -60,13 +60,7 @@ function Navbar() {
             href="/portfolio"
             className="text-[11px] font-medium tracking-[0.18em] uppercase text-[var(--ss-bronze-soft)] transition hover:text-[var(--ss-bronze-soft)]"
           >
-            Portfolio
-          </Link>
-          <Link
-            href="/contact"
-            className="text-[11px] font-medium tracking-[0.18em] uppercase text-[var(--ss-light)]/65 transition hover:text-[var(--ss-bronze-soft)]"
-          >
-            Contact
+            Our Work
           </Link>
           <a
             href={BOOKING_URL}
@@ -99,8 +93,7 @@ function Navbar() {
       >
         <div className="space-y-1 px-5 py-4">
           {[
-            { label: "Portfolio", href: "/portfolio" },
-            { label: "Contact", href: "/contact" },
+            { label: "Our Work", href: "/portfolio" },
           ].map((item) => (
             <Link
               key={item.href}
@@ -168,13 +161,13 @@ function ProjectCard({ project, index: _index }: { project: Project; index: numb
             className="object-cover transition-transform duration-700 ease-out will-change-transform group-hover:scale-[1.03]"
             style={project.imageFilter ? { filter: project.imageFilter } : undefined}
           />
-          {/* Subtle center vignette — only where logo sits */}
+          {/* Subtle center vignette */}
           {project.logo && (
             <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(20,13,9,0.22)_0%,transparent_65%)]" />
           )}
           {/* Bronze tint on hover */}
           <div className="absolute inset-0 bg-[var(--ss-bronze)] opacity-0 mix-blend-multiply transition-opacity duration-500 group-hover:opacity-10" />
-          {/* White logo — no scrim */}
+          {/* White logo */}
           {project.logo && (
             <div className="absolute inset-0 flex items-center justify-center p-12">
               <Image
@@ -188,25 +181,6 @@ function ProjectCard({ project, index: _index }: { project: Project; index: numb
           )}
         </div>
 
-        {/* Text panel */}
-        <div className="px-8 py-6 md:px-10 md:py-7">
-          <p className="mb-3 font-[family:var(--font-cinzel)] text-[9px] tracking-[0.24em] uppercase text-[var(--ss-bronze)]">
-            {project.category}
-          </p>
-          <div className="flex items-center justify-between gap-4">
-            <h3 className="font-[family:var(--font-cormorant)] text-[clamp(1.8rem,2.6vw,2.6rem)] leading-[1.05] tracking-[-0.02em] text-[var(--ss-ink)]">
-              {project.title}
-            </h3>
-            <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[var(--ss-soft-border)] text-[var(--ss-muted)] transition-[border-color,color,transform] duration-300 group-hover:translate-x-0.5 group-hover:border-[var(--ss-bronze)] group-hover:text-[var(--ss-bronze)]">
-              <ArrowUpRight className="size-3.5" strokeWidth={1.7} />
-            </span>
-          </div>
-          <div className="mt-4 border-t border-[var(--ss-soft-border)] pt-4">
-            <p className="font-[family:var(--font-cinzel)] text-[9px] tracking-[0.18em] uppercase text-[var(--ss-muted)]">
-              {project.services.join(" · ")}
-            </p>
-          </div>
-        </div>
       </Link>
   );
 }
@@ -227,13 +201,7 @@ function Footer() {
             href="/portfolio"
             className="text-[11px] tracking-[0.18em] uppercase text-[var(--ss-light)]/45 transition hover:text-[var(--ss-bronze-soft)]"
           >
-            Portfolio
-          </Link>
-          <Link
-            href="/contact"
-            className="text-[11px] tracking-[0.18em] uppercase text-[var(--ss-light)]/45 transition hover:text-[var(--ss-bronze-soft)]"
-          >
-            Contact
+            Our Work
           </Link>
           <a
             href={BOOKING_URL}
@@ -244,13 +212,6 @@ function Footer() {
             Book a Call
           </a>
         </div>
-        <a
-          href="mailto:hello@theunedit.com"
-          className="flex items-center gap-2 text-[13px] text-[var(--ss-muted)] transition hover:text-[var(--ss-bronze-soft)]"
-        >
-          <Mail className="size-4" strokeWidth={1.7} />
-          hello@theunedit.com
-        </a>
         <p className="text-[11px] text-[var(--ss-light)]/28">
           © 2026 The Unedit Agency. All rights reserved.
         </p>
@@ -267,36 +228,28 @@ export default function PortfolioPage() {
 
       {/* Page header */}
       <section className="pt-[64px]">
-        <div className="mx-auto max-w-[860px] px-5 pb-0 pt-16 sm:px-6 md:pt-24 lg:px-8 lg:pt-28">
+        <div className="mx-auto max-w-[960px] px-5 pb-6 pt-16 sm:px-6 md:pt-20 lg:px-8 lg:pt-24 pl-[64px] md:pl-[76px] lg:pl-[84px]">
           <FadeIn>
-            <p className="mb-6 font-[family:var(--font-cinzel)] text-[11px] tracking-[0.22em] uppercase text-[var(--ss-bronze)]">
+            <p className="font-[family:var(--font-cinzel)] text-[11px] tracking-[0.22em] uppercase text-[var(--ss-bronze)]">
               Selected Work
             </p>
-            <h1 className="font-[family:var(--font-cormorant)] text-[clamp(2.8rem,5vw,4.2rem)] leading-[1.05] tracking-[-0.03em] text-[var(--ss-ink)]">
-              Brand that earns
-              <br />
-              <em>its place.</em>
-            </h1>
-            <p className="mt-7 max-w-[460px] text-[15px] leading-[1.85] text-[var(--ss-dark-text)]/60">
-              From discovery to final delivery — strategy and identity built around the real story behind each founder.
-            </p>
           </FadeIn>
-          {/* Vertical rule */}
-          <div className="mt-14 h-28 w-px bg-[var(--ss-soft-border)]" />
         </div>
       </section>
 
-      {/* Projects — single column with gutter numbers */}
-      <section className="mx-auto max-w-[960px] px-5 pb-24 pt-10 sm:px-6 lg:px-8 lg:pb-32">
-        <div className="flex flex-col gap-10">
+      {/* Projects */}
+      <section className="relative mx-auto max-w-[960px] px-5 pb-24 pt-20 sm:px-6 lg:px-8 lg:pb-32">
+        {/* Ghost word beside Pause Please */}
+        <p className="pointer-events-none absolute -right-[2vw] top-[8%] select-none font-[family:var(--font-cormorant)] text-[9vw] font-light leading-none tracking-[-0.04em] text-[var(--ss-bronze)]/[0.18] whitespace-nowrap -rotate-90 origin-right">story</p>
+        {/* Ghost word beside Forward Outdoor */}
+        <p className="pointer-events-none absolute -left-[2vw] top-[52%] select-none font-[family:var(--font-cormorant)] text-[8vw] font-light leading-none tracking-[-0.04em] text-[var(--ss-bronze)]/[0.15] whitespace-nowrap rotate-90 origin-left">bold</p>
+        <div className="flex flex-col gap-20">
           {projects.map((project, i) => (
             <FadeIn key={project.id} delay={i * 0.1}>
               <div className="flex items-start gap-5 md:gap-7">
-                {/* Gutter number */}
                 <span className="mt-1 w-6 shrink-0 font-[family:var(--font-cinzel)] text-[10px] tracking-[0.2em] text-[var(--ss-muted)]">
                   {project.id}
                 </span>
-                {/* Card */}
                 <div className="min-w-0 flex-1">
                   <ProjectCard project={project} index={i} />
                 </div>

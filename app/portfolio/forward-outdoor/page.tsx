@@ -109,7 +109,7 @@ export default function ForwardOutdoorCaseStudy() {
           The Unedit
         </Link>
         <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.22em", textTransform: "uppercase", color: "rgba(193,216,230,0.4)" }}>
-          Portfolio
+          Our Work
         </p>
       </nav>
 

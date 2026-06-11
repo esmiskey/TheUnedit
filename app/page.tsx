@@ -60,7 +60,7 @@ function Navbar() {
             href="/portfolio"
             className="text-[11px] font-medium tracking-[0.18em] uppercase text-[var(--ss-light)]/65 transition hover:text-[var(--ss-bronze-soft)]"
           >
-            Portfolio
+            Our Work
           </Link>
           <a
             href={BOOKING_URL}
@@ -93,7 +93,7 @@ function Navbar() {
       >
         <div className="space-y-1 px-5 py-4">
           {[
-            { label: "Portfolio", href: "/portfolio" },
+            { label: "Our Work", href: "/portfolio" },
           ].map((item) => (
             <Link
               key={item.href}
@@ -386,7 +386,7 @@ function Footer() {
             href="/portfolio"
             className="text-[11px] tracking-[0.18em] uppercase text-[var(--ss-light)]/45 transition hover:text-[var(--ss-bronze-soft)]"
           >
-            Portfolio
+            Our Work
           </Link>
           <a
             href={BOOKING_URL}

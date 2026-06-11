@@ -320,7 +320,7 @@ export default function PausePleaseCaseStudy() {
               Brand in the World
             </p>
             <h2 style={{ fontFamily: "var(--font-cormorant)", fontSize: "clamp(2rem, 3vw, 2.6rem)", lineHeight: 1.06, letterSpacing: "-0.03em", color: PP.onyx, marginBottom: 48 }}>
-              The brand, applied.
+              Imagine your brand out in the wild.
             </h2>
           </FadeIn>
 

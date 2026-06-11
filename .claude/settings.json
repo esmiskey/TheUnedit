@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(\"/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --screenshot=/tmp/hero-copy2.png --window-size=1440,900 http://localhost:3000)",
+      "Bash(curl -s -L \"https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-dark-1000.png\" -o /Users/kairosclock/Downloads/silk-steel-site/public/logos/bma-logo-dark.png)",
+      "Bash(curl -s -L \"https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-black-1000.png\" -o /Users/kairosclock/Downloads/silk-steel-site/public/logos/bma-logo-black.png)",
+      "Bash(\"/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --screenshot=/tmp/divider-taller.png --window-size=1440,900 http://localhost:3000)",
+      "Bash(curl -s http://localhost:3000/portfolio)",
+      "Bash(node -e \"require\\('puppeteer'\\)\")",
+      "Bash(ls /tmp/puppeteer-test/ 2>/dev/null || ls ~/node_modules/puppeteer 2>/dev/null | head -5; ls ~/.cache/puppeteer/ 2>/dev/null | head -5)",
+      "Read(//Users/kairosclock/node_modules/**)",
+      "Read(//Users/kairosclock/.cache/**)",
+      "Bash(npm list *)",
+      "Bash(node -e \"require\\('/usr/local/lib/node_modules/puppeteer'\\)\")",
+      "Bash(\"/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome\" --version)",
+      "Bash('/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome' --headless=new --screenshot=/tmp/portfolio-screenshot.png --window-size=1440,900 --hide-scrollbars http://localhost:3000/portfolio)",
+      "Bash(echo \"exit: $?\")",
+      "Bash('/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome' --headless=new --screenshot=/tmp/portfolio-full.png --window-size=1440,2400 --hide-scrollbars --virtual-time-budget=3000 http://localhost:3000/portfolio)",
+      "Bash('/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome' --headless=new --screenshot=/tmp/portfolio-light.png --window-size=1440,2400 --hide-scrollbars --virtual-time-budget=3000 http://localhost:3000/portfolio)",
+      "Bash(find ~/Desktop ~/Downloads ~/Pictures ~/Documents -type d -iname \"*august*\" -o -type d -iname \"*venlo*\" 2>/dev/null | head -20)",
+      "Read(//Users/kairosclock/Desktop/**)",
+      "Bash(cp \"/Users/kairosclock/Desktop/August 2025_0_0/venlo-studio-3199.jpg\" \"/Users/kairosclock/Downloads/silk-steel-site/public/pause-please/photos/venlo-studio-3199.jpg\")",
+      "Bash('/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome' --headless=new --screenshot=/tmp/portfolio-3263.png --window-size=1440,900 --hide-scrollbars --virtual-time-budget=3000 http://localhost:3000/portfolio)",
+      "Bash('/Applications/Google Chrome 2.app/Contents/MacOS/Google Chrome' --headless=new --screenshot=/tmp/portfolio-3263b.png --window-size=1440,900 --hide-scrollbars --virtual-time-budget=6000 http://localhost:3000/portfolio)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" \"http://localhost:3000/_next/image?url=%2Fpause-please%2Fphotos%2Fvenlo-studio-3299.jpg&w=828&q=75\")",
+      "Bash(node /tmp/screenshot-pp.mjs)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"http://localhost:3000/_next/image?url=%2Fpause-please%2Fphotos%2Fvenlo-studio-3299.jpg&w=1200&q=75\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"http://localhost:3000/_next/image?url=%2Fpause-please%2Fphotos%2Fvenlo-studio-3299.jpg&w=1920&q=75\")"
+    ],
+    "additionalDirectories": [
+      "/Users/kairosclock/Desktop/August 2025_0_0"
+    ]
+  }
+}

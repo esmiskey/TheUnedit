@@ -1,0 +1,1861 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />				<script type="text/javascript">
+			window.flatStyles = window.flatStyles || ''
+
+			window.lightspeedOptimizeStylesheet = function () {
+				const currentStylesheet = document.querySelector( '.tcb-lightspeed-style:not([data-ls-optimized])' )
+
+				if ( currentStylesheet ) {
+					try {
+						if ( currentStylesheet.sheet && currentStylesheet.sheet.cssRules ) {
+							if ( window.flatStyles ) {
+								if ( this.optimizing ) {
+									setTimeout( window.lightspeedOptimizeStylesheet.bind( this ), 24 )
+								} else {
+									this.optimizing = true;
+
+									let rulesIndex = 0;
+
+									while ( rulesIndex < currentStylesheet.sheet.cssRules.length ) {
+										const rule = currentStylesheet.sheet.cssRules[ rulesIndex ]
+										/* remove rules that already exist in the page */
+										if ( rule.type === CSSRule.STYLE_RULE && window.flatStyles.includes( `${rule.selectorText}{` ) ) {
+											currentStylesheet.sheet.deleteRule( rulesIndex )
+										} else {
+											rulesIndex ++
+										}
+									}
+									/* optimize, mark it such, move to the next file, append the styles we have until now */
+									currentStylesheet.setAttribute( 'data-ls-optimized', '1' )
+
+									window.flatStyles += currentStylesheet.innerHTML
+
+									this.optimizing = false
+								}
+							} else {
+								window.flatStyles = currentStylesheet.innerHTML
+								currentStylesheet.setAttribute( 'data-ls-optimized', '1' )
+							}
+						}
+					} catch ( error ) {
+						console.warn( error )
+					}
+
+					if ( currentStylesheet.parentElement.tagName !== 'HEAD' ) {
+						/* always make sure that those styles end up in the head */
+						const stylesheetID = currentStylesheet.id;
+						/**
+						 * make sure that there is only one copy of the css
+						 * e.g display CSS
+						 */
+						if ( ( ! stylesheetID || ( stylesheetID && ! document.querySelector( `head #${stylesheetID}` ) ) ) ) {
+							document.head.prepend( currentStylesheet )
+						} else {
+							currentStylesheet.remove();
+						}
+					}
+				}
+			}
+
+			window.lightspeedOptimizeFlat = function ( styleSheetElement ) {
+				if ( document.querySelectorAll( 'link[href*="thrive_flat.css"]' ).length > 1 ) {
+					/* disable this flat if we already have one */
+					styleSheetElement.setAttribute( 'disabled', true )
+				} else {
+					/* if this is the first one, make sure he's in head */
+					if ( styleSheetElement.parentElement.tagName !== 'HEAD' ) {
+						document.head.append( styleSheetElement )
+					}
+				}
+			}
+		</script>
+		
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Page not found - Brand Master Academy</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Page not found - Brand Master Academy" />
+<meta property="og:site_name" content="Brand Master Academy" />
+<meta property="article:publisher" content="https://www.facebook.com/brandmasteracademy" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found - Brand Master Academy" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Person","@id":"https://brandmasteracademy.com/#person","name":"Sam","sameAs":["https://www.facebook.com/brandmasteracademy"],"image":{"@type":"ImageObject","@id":"https://brandmasteracademy.com/#logo","url":"https://brandmasteracademy.com/wp-content/uploads/2025/04/cropped-BMA-All-Access-Logo-B-4.png","contentUrl":"https://brandmasteracademy.com/wp-content/uploads/2025/04/cropped-BMA-All-Access-Logo-B-4.png","caption":"Brand Master Academy","inLanguage":"en-US","width":"512","height":"512"}},{"@type":"WebSite","@id":"https://brandmasteracademy.com/#website","url":"https://brandmasteracademy.com","name":"Brand Master Academy","publisher":{"@id":"https://brandmasteracademy.com/#person"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://brandmasteracademy.com","name":"Home"}}]},{"@type":"WebPage","@id":"#webpage","url":"","name":"Page not found - Brand Master Academy","isPartOf":{"@id":"https://brandmasteracademy.com/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"#breadcrumb"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel="alternate" type="application/rss+xml" title="Brand Master Academy &raquo; Feed" href="https://brandmasteracademy.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Brand Master Academy &raquo; Comments Feed" href="https://brandmasteracademy.com/comments/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='bma-google-font-montserrat-css' href='//fonts.googleapis.com/css2?family=Montserrat%3Awght%40100%3B200%3B300%3B400%3B500%3B600%3B700%3B800%3B900&#038;display=swap&#038;ver=6.9' media='all' />
+<link rel='stylesheet' id='xpro-elementor-addons-widgets-css' href='https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-widgets.css?ver=1.7.2' media='all' />
+<link rel='stylesheet' id='xpro-elementor-addons-responsive-css' href='https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-responsive.css?ver=1.7.2' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='social-icons-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.0' media='all' />
+<link rel='stylesheet' id='xpro-icons-css' href='https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/assets/css/xpro-icons.min.css?ver=1.0.0' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css'>
+/**
+ * These rules are needed for backwards compatibility.
+ * They should match the button element rules in the base theme.json file.
+ */
+.wp-block-button__link {
+	color: #ffffff;
+	background-color: #32373c;
+	border-radius: 9999px; /* 100% causes an oval, but any explicit but really high value retains the pill shape. */
+
+	/* This needs a low specificity so it won't override the rules from the button element if defined in theme.json. */
+	box-shadow: none;
+	text-decoration: none;
+
+	/* The extra 2px are added to size solids the same as the outline versions.*/
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+
+	font-size: 1.125em;
+}
+
+.wp-block-file__button {
+	background: #32373c;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+/*# sourceURL=/wp-includes/css/classic-themes.css */
+</style>
+<style id='wpjoli-joli-table-of-contents-style-inline-css'>
+
+
+/*# sourceURL=https://brandmasteracademy.com/wp-content/plugins/joli-table-of-contents/gutenberg/blocks/joli-table-of-contents/style-index.css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='bma-google-font-css' href='https://fonts.googleapis.com/css2?family=Montserrat%3Awght%40400%3B500%3B700%3B800&#038;display=swap&#038;ver=6.9' media='all' />
+<link rel='stylesheet' id='bma-web-font-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.9' media='all' />
+<link rel='stylesheet' id='bma-style-css' href='https://brandmasteracademy.com/wp-content/themes/brand-master-academy/style.css?ver=8026' media='all' />
+<link rel='stylesheet' id='bma-theme-default-css' href='https://brandmasteracademy.com/wp-content/themes/brand-master-academy/css/theme-default.css?ver=5890' media='all' />
+<link rel='stylesheet' id='bma-theme-style-css' href='https://brandmasteracademy.com/wp-content/themes/brand-master-academy/css/style.css?ver=9003' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor/assets/css/frontend.css?ver=4.1.1' media='all' />
+<style id='elementor-frontend-inline-css'>
+.elementor-kit-24642{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-kit-24642 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}
+.elementor-27241 .elementor-element.elementor-element-64d0433e{--display:flex;--min-height:80px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:-80px;--margin-left:0px;--margin-right:0px;--padding-top:0%;--padding-bottom:0%;--padding-left:5%;--padding-right:5%;--z-index:95;}.elementor-27241 .elementor-element.elementor-element-64d0433e:not(.elementor-motion-effects-element-type-background), .elementor-27241 .elementor-element.elementor-element-64d0433e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#191919;}.elementor-27241 .elementor-element.elementor-element-678c867a{--display:flex;--align-items:stretch;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-27241 .elementor-element.elementor-element-4ee2f07e.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27241 .elementor-element.elementor-element-4ee2f07e{text-align:start;}.elementor-27241 .elementor-element.elementor-element-4ee2f07e img{width:100%;max-width:100%;height:61px;object-fit:contain;object-position:center center;}.elementor-27241 .elementor-element.elementor-element-491c0c69{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--align-items:center;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-27241 .elementor-element.elementor-element-491c0c69.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-27241 .elementor-element.elementor-element-960fab3.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-menu-toggle{margin-left:auto;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:17px;font-weight:500;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--main .elementor-item{color:#C3C3C3;fill:#C3C3C3;padding-left:14px;padding-right:14px;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--main .elementor-item:focus{color:#FFFFFF;fill:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a, .elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-menu-toggle{color:#C3C3C3;fill:#C3C3C3;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown{background-color:#191919;border-radius:10px 10px 10px 10px;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a:hover,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a:focus,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-menu-toggle:hover,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-menu-toggle:focus{color:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a:hover,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a:focus,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a.highlighted{background-color:#191919;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a.elementor-item-active{color:#FFFFFF;background-color:#191919;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown li:first-child a{border-top-left-radius:10px;border-top-right-radius:10px;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown li:last-child a{border-bottom-right-radius:10px;border-bottom-left-radius:10px;}.elementor-27241 .elementor-element.elementor-element-36eb6980 .elementor-button{background-color:#FFFFFF;font-family:"Helvetica", Sans-serif;font-weight:500;letter-spacing:1px;fill:#000000;color:#000000;border-radius:20px 20px 20px 20px;padding:15px 30px 15px 30px;}.elementor-27241 .elementor-element.elementor-element-36eb6980 .elementor-button:hover, .elementor-27241 .elementor-element.elementor-element-36eb6980 .elementor-button:focus{background-color:transparent;color:#FFFFFF;background-image:linear-gradient(215deg, #FF0097 0%, #FF00F9 100%);}.elementor-27241 .elementor-element.elementor-element-36eb6980.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27241 .elementor-element.elementor-element-36eb6980.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27241 .elementor-element.elementor-element-36eb6980 .elementor-button:hover svg, .elementor-27241 .elementor-element.elementor-element-36eb6980 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-menu-toggle{margin-left:auto;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:17px;font-weight:500;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--main .elementor-item{color:#C3C3C3;fill:#C3C3C3;padding-left:14px;padding-right:14px;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--main .elementor-item:focus{color:#FFFFFF;fill:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--main .elementor-item.elementor-item-active{color:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a, .elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-menu-toggle{color:#C3C3C3;fill:#C3C3C3;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown{background-color:#191919;border-radius:10px 10px 10px 10px;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a:hover,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a:focus,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a.highlighted,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-menu-toggle:hover,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-menu-toggle:focus{color:#FFFFFF;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a:hover,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a:focus,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a.highlighted{background-color:#191919;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a.elementor-item-active{color:#FFFFFF;background-color:#191919;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown li:first-child a{border-top-left-radius:10px;border-top-right-radius:10px;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown li:last-child a{border-bottom-right-radius:10px;border-bottom-left-radius:10px;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}@media(max-width:1024px){.elementor-27241 .elementor-element.elementor-element-491c0c69{--gap:6% 6%;--row-gap:6%;--column-gap:6%;}.elementor-27241 .elementor-element.elementor-element-960fab3 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown .elementor-item, .elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:18px;}.elementor-27241 .elementor-element.elementor-element-960fab3 .elementor-nav-menu--dropdown a{padding-top:18px;padding-bottom:18px;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown .elementor-item, .elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:18px;}.elementor-27241 .elementor-element.elementor-element-b1ccaa5 .elementor-nav-menu--dropdown a{padding-top:18px;padding-bottom:18px;}}@media(min-width:768px){.elementor-27241 .elementor-element.elementor-element-678c867a{--width:20%;}.elementor-27241 .elementor-element.elementor-element-491c0c69{--width:80%;}}@media(max-width:1024px) and (min-width:768px){.elementor-27241 .elementor-element.elementor-element-678c867a{--width:15%;}.elementor-27241 .elementor-element.elementor-element-491c0c69{--width:100%;}}@media(max-width:767px){.elementor-27241 .elementor-element.elementor-element-678c867a{--width:30%;}.elementor-27241 .elementor-element.elementor-element-4ee2f07e img{width:85%;}.elementor-27241 .elementor-element.elementor-element-491c0c69{--width:70%;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;}.elementor-27241 .elementor-element.elementor-element-36eb6980{width:var( --container-widget-width, 53% );max-width:53%;--container-widget-width:53%;--container-widget-flex-grow:0;}.elementor-27241 .elementor-element.elementor-element-36eb6980 .elementor-button{padding:15px 20px 15px 20px;}}
+.elementor-27268 .elementor-element.elementor-element-657eca45{--display:flex;--min-height:0px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--align-items:stretch;--gap:0px 0px;--row-gap:0px;--column-gap:0px;border-style:none;--border-style:none;--padding-top:05%;--padding-bottom:5%;--padding-left:5%;--padding-right:5%;}.elementor-27268 .elementor-element.elementor-element-657eca45:not(.elementor-motion-effects-element-type-background), .elementor-27268 .elementor-element.elementor-element-657eca45 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-27268 .elementor-element.elementor-element-6b1395f0{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0%;--padding-bottom:0%;--padding-left:0%;--padding-right:5%;}.elementor-27268 .elementor-element.elementor-element-379fd10{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-27268 .elementor-element.elementor-element-b25d030{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-b25d030.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-2b92bae.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-2b92bae{text-align:center;}.elementor-27268 .elementor-element.elementor-element-2b92bae .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-095f3f8{width:var( --container-widget-width, 64.586% );max-width:64.586%;--container-widget-width:64.586%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-095f3f8 > .elementor-widget-container{margin:5px 0px 0px -7px;padding:0% 0% 0% 0%;}.elementor-27268 .elementor-element.elementor-element-095f3f8.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-095f3f8.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-095f3f8 .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-095f3f8 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-095f3f8 .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-095f3f8 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268 .elementor-element.elementor-element-2bddf8f{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-2bddf8f.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-db5b84a.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-db5b84a{text-align:center;}.elementor-27268 .elementor-element.elementor-element-db5b84a .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-3836a5c{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-5e941d0.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-5e941d0{text-align:center;}.elementor-27268 .elementor-element.elementor-element-5e941d0 .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-e983b90{width:var( --container-widget-width, 64.586% );max-width:64.586%;--container-widget-width:64.586%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-e983b90 > .elementor-widget-container{margin:5px 0px 0px -3px;padding:0% 0% 0% 0%;}.elementor-27268 .elementor-element.elementor-element-e983b90.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-e983b90.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-e983b90 .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-e983b90 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-e983b90 .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-e983b90 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268 .elementor-element.elementor-element-0997660{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-691fad8.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-691fad8{text-align:center;}.elementor-27268 .elementor-element.elementor-element-691fad8 .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-f28640e{width:var( --container-widget-width, 146.571% );max-width:146.571%;--container-widget-width:146.571%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-f28640e > .elementor-widget-container{margin:5px 0px 0px 2px;padding:0% 0% 0% 0%;}.elementor-27268 .elementor-element.elementor-element-f28640e.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-f28640e.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-f28640e .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-f28640e .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-f28640e .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-f28640e .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268 .elementor-element.elementor-element-2add1b2a{width:var( --container-widget-width, 142.504% );max-width:142.504%;--container-widget-width:142.504%;--container-widget-flex-grow:0;text-align:start;}.elementor-27268 .elementor-element.elementor-element-2add1b2a > .elementor-widget-container{margin:0px 0px -7px 0px;}.elementor-27268 .elementor-element.elementor-element-2add1b2a.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-2add1b2a.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-2add1b2a img{width:215px;max-width:46%;height:60px;object-fit:contain;object-position:center center;}.elementor-27268 .elementor-element.elementor-element-482015b2{width:var( --container-widget-width, 77.753% );max-width:77.753%;--container-widget-width:77.753%;--container-widget-flex-grow:0;font-family:"Helvetica", Sans-serif;font-size:13px;font-weight:500;text-transform:none;font-style:normal;text-decoration:none;line-height:1.5em;letter-spacing:0px;word-spacing:0px;color:#C3C3C3;}.elementor-27268 .elementor-element.elementor-element-482015b2 > .elementor-widget-container{margin:-10px 0px -20px 0px;}.elementor-27268 .elementor-element.elementor-element-482015b2.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-482015b2.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-11220a2 .elementor-button{background-color:#FFFFFF;font-family:"Helvetica", Sans-serif;font-size:10px;font-weight:600;letter-spacing:1px;fill:#000000;color:#000000;border-radius:20px 20px 20px 20px;padding:15px 25px 15px 25px;}.elementor-27268 .elementor-element.elementor-element-11220a2 .elementor-button:hover, .elementor-27268 .elementor-element.elementor-element-11220a2 .elementor-button:focus{background-color:transparent;color:#FFFFFF;background-image:linear-gradient(215deg, #FF0097 0%, #FF00F9 100%);}.elementor-27268 .elementor-element.elementor-element-11220a2.elementor-element{--align-self:stretch;}.elementor-27268 .elementor-element.elementor-element-11220a2.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-11220a2 .elementor-button:hover svg, .elementor-27268 .elementor-element.elementor-element-11220a2 .elementor-button:focus svg{fill:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-57765c2{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-f0aa9ff{width:var( --container-widget-width, 91% );max-width:91%;--container-widget-width:91%;--container-widget-flex-grow:0;font-family:"Helvetica", Sans-serif;font-size:13px;font-weight:400;text-transform:none;font-style:normal;text-decoration:none;line-height:1.5em;letter-spacing:0px;word-spacing:0px;color:#777777;}.elementor-27268 .elementor-element.elementor-element-f0aa9ff > .elementor-widget-container{margin:0px 0px -16px 0px;}.elementor-27268 .elementor-element.elementor-element-f0aa9ff.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-f0aa9ff.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-807cccb{width:var( --container-widget-width, 91% );max-width:91%;--container-widget-width:91%;--container-widget-flex-grow:0;}.elementor-27268 .elementor-element.elementor-element-807cccb > .elementor-widget-container{margin:0px 0px -16px 0px;}.elementor-27268 .elementor-element.elementor-element-807cccb.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-807cccb.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-807cccb .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:13px;font-weight:400;text-transform:none;font-style:normal;text-decoration:none;line-height:1.5em;letter-spacing:0px;word-spacing:0px;color:#FFFFFFB0;}.elementor-27268 .elementor-element.elementor-element-fff6344{--display:flex;--justify-content:space-between;--gap:40px 40px;--row-gap:40px;--column-gap:40px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-27268 .elementor-element.elementor-element-fff6344.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-b9a4d87{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-27268 .elementor-element.elementor-element-36fd26e{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-36fd26e.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-91114e3.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-91114e3{text-align:center;}.elementor-27268 .elementor-element.elementor-element-91114e3 .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-5bb28ff{width:var( --container-widget-width, 64.586% );max-width:64.586%;--container-widget-width:64.586%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-5bb28ff > .elementor-widget-container{margin:5px 0px 0px -7px;padding:0% 0% 0% 0%;}.elementor-27268 .elementor-element.elementor-element-5bb28ff.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-5bb28ff.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-5bb28ff .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-5bb28ff .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-5bb28ff .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-5bb28ff .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268 .elementor-element.elementor-element-ed18564{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-ed18564.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-9aa2385.elementor-element{--align-self:stretch;}.elementor-27268 .elementor-element.elementor-element-9aa2385.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-9aa2385{text-align:center;}.elementor-27268 .elementor-element.elementor-element-9aa2385 .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-028aed8{width:var( --container-widget-width, 71.106% );max-width:71.106%;--container-widget-width:71.106%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-028aed8 > .elementor-widget-container{margin:5px 0px 0px -3px;padding:0% 0% 0% 10%;}.elementor-27268 .elementor-element.elementor-element-028aed8.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-028aed8.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-028aed8 .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-028aed8 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-028aed8 .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-028aed8 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268 .elementor-element.elementor-element-be08a19{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-ac063d1.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-ac063d1{text-align:center;}.elementor-27268 .elementor-element.elementor-element-ac063d1 .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-b56efb4{width:var( --container-widget-width, 64.586% );max-width:64.586%;--container-widget-width:64.586%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-b56efb4 > .elementor-widget-container{margin:5px 0px 0px -3px;padding:0% 0% 0% 0%;}.elementor-27268 .elementor-element.elementor-element-b56efb4.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-b56efb4.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-b56efb4 .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-b56efb4 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-b56efb4 .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-b56efb4 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268 .elementor-element.elementor-element-3a147c4{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-27268 .elementor-element.elementor-element-5d11f9a.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-5d11f9a{text-align:center;}.elementor-27268 .elementor-element.elementor-element-5d11f9a .elementor-heading-title{font-size:13px;color:#FFFFFF;}.elementor-27268 .elementor-element.elementor-element-ff31db3{width:var( --container-widget-width, 146.571% );max-width:146.571%;--container-widget-width:146.571%;--container-widget-flex-grow:0;--e-nav-menu-horizontal-menu-item-margin:calc( 0px / 2 );}.elementor-27268 .elementor-element.elementor-element-ff31db3 > .elementor-widget-container{margin:5px 0px 0px 2px;padding:0% 0% 0% 0%;}.elementor-27268 .elementor-element.elementor-element-ff31db3.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-27268 .elementor-element.elementor-element-ff31db3.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-27268 .elementor-element.elementor-element-ff31db3 .elementor-menu-toggle{margin:0 auto;}.elementor-27268 .elementor-element.elementor-element-ff31db3 .elementor-nav-menu .elementor-item{font-family:"Helvetica", Sans-serif;font-size:11px;font-weight:600;}.elementor-27268 .elementor-element.elementor-element-ff31db3 .elementor-nav-menu--main .elementor-item{color:#ACACAC;fill:#ACACAC;padding-top:2px;padding-bottom:2px;}.elementor-27268 .elementor-element.elementor-element-ff31db3 .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:0px;}.elementor-27268:not(.elementor-motion-effects-element-type-background), .elementor-27268 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F9E0E2;}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}@media(max-width:1024px){.elementor-27268 .elementor-element.elementor-element-657eca45{--flex-wrap:wrap;}.elementor-27268 .elementor-element.elementor-element-6b1395f0{--margin-top:0%;--margin-bottom:6%;--margin-left:0%;--margin-right:0%;--padding-top:0%;--padding-bottom:0%;--padding-left:15%;--padding-right:15%;}.elementor-27268 .elementor-element.elementor-element-379fd10.e-con{--align-self:stretch;}.elementor-27268 .elementor-element.elementor-element-095f3f8{width:var( --container-widget-width, 108.1px );max-width:108.1px;--container-widget-width:108.1px;--container-widget-flex-grow:0;}.elementor-27268 .elementor-element.elementor-element-095f3f8 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-e983b90{width:var( --container-widget-width, 95.7px );max-width:95.7px;--container-widget-width:95.7px;--container-widget-flex-grow:0;}.elementor-27268 .elementor-element.elementor-element-e983b90 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-f28640e > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-2add1b2a.elementor-element{--align-self:center;}.elementor-27268 .elementor-element.elementor-element-2add1b2a{text-align:center;}.elementor-27268 .elementor-element.elementor-element-2add1b2a img{width:100%;height:67px;}.elementor-27268 .elementor-element.elementor-element-482015b2 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-482015b2.elementor-element{--align-self:center;}.elementor-27268 .elementor-element.elementor-element-482015b2{text-align:center;font-size:14px;}.elementor-27268 .elementor-element.elementor-element-11220a2.elementor-element{--align-self:center;}.elementor-27268 .elementor-element.elementor-element-f0aa9ff > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-f0aa9ff{text-align:center;font-size:14px;}.elementor-27268 .elementor-element.elementor-element-807cccb > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-807cccb{text-align:center;}.elementor-27268 .elementor-element.elementor-element-807cccb .elementor-heading-title{font-size:14px;}.elementor-27268 .elementor-element.elementor-element-5bb28ff > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-028aed8 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-b56efb4 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-27268 .elementor-element.elementor-element-ff31db3 > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-27268 .elementor-element.elementor-element-657eca45{--padding-top:12%;--padding-bottom:0%;--padding-left:5%;--padding-right:5%;}.elementor-27268 .elementor-element.elementor-element-6b1395f0{--margin-top:0%;--margin-bottom:10%;--margin-left:0%;--margin-right:0%;--padding-top:0%;--padding-bottom:0%;--padding-left:0%;--padding-right:0%;}.elementor-27268 .elementor-element.elementor-element-379fd10{--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;}.elementor-27268 .elementor-element.elementor-element-095f3f8{width:var( --container-widget-width, 326.1px );max-width:326.1px;--container-widget-width:326.1px;--container-widget-flex-grow:0;}.elementor-27268 .elementor-element.elementor-element-095f3f8.elementor-element{--align-self:center;}.elementor-27268 .elementor-element.elementor-element-e983b90{width:var( --container-widget-width, 303.7px );max-width:303.7px;--container-widget-width:303.7px;--container-widget-flex-grow:0;}.elementor-27268 .elementor-element.elementor-element-e983b90.elementor-element{--align-self:center;}.elementor-27268 .elementor-element.elementor-element-2add1b2a{text-align:center;}.elementor-27268 .elementor-element.elementor-element-2add1b2a img{width:85px;}}@media(min-width:768px){.elementor-27268 .elementor-element.elementor-element-6b1395f0{--width:98%;}.elementor-27268 .elementor-element.elementor-element-b25d030{--width:24.217%;}.elementor-27268 .elementor-element.elementor-element-2bddf8f{--width:25.194%;}.elementor-27268 .elementor-element.elementor-element-fff6344{--width:49.652%;}.elementor-27268 .elementor-element.elementor-element-36fd26e{--width:24.217%;}.elementor-27268 .elementor-element.elementor-element-ed18564{--width:25.194%;}}@media(max-width:1024px) and (min-width:768px){.elementor-27268 .elementor-element.elementor-element-6b1395f0{--width:100%;}.elementor-27268 .elementor-element.elementor-element-fff6344{--width:694.688px;}}
+.elementor-35412 .elementor-element.elementor-element-65424b99{--display:flex;--min-height:81vh;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--padding-top:10%;--padding-bottom:10%;--padding-left:10%;--padding-right:10%;}.elementor-35412 .elementor-element.elementor-element-65424b99:not(.elementor-motion-effects-element-type-background), .elementor-35412 .elementor-element.elementor-element-65424b99 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#191919;}.elementor-35412 .elementor-element.elementor-element-1756656c{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:0%;--padding-bottom:0%;--padding-left:0%;--padding-right:8%;}.elementor-35412 .elementor-element.elementor-element-1756656c.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-35412 .elementor-element.elementor-element-67fac6fe{width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;text-align:start;}.elementor-35412 .elementor-element.elementor-element-67fac6fe.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-35412 .elementor-element.elementor-element-67fac6fe.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-35412 .elementor-element.elementor-element-67fac6fe .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:73px;font-weight:700;color:#FFFFFF;}.elementor-35412 .elementor-element.elementor-element-757691f > .elementor-widget-container{margin:4% 8% 4% 0%;}.elementor-35412 .elementor-element.elementor-element-757691f.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-35412 .elementor-element.elementor-element-757691f .elementor-heading-title{font-family:"Helvetica", Sans-serif;font-size:22px;font-weight:400;text-transform:none;font-style:normal;text-decoration:none;line-height:1.5em;letter-spacing:0px;color:#C3C3C3;}.elementor-35412 .elementor-element.elementor-element-7a00136f .elementor-button{background-color:transparent;font-family:"Helvetica", Sans-serif;font-size:16px;font-weight:600;text-transform:capitalize;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;fill:#FFFFFF;color:#FFFFFF;background-image:linear-gradient(109deg, #FF0097 0%, #FF01F5 100%);border-radius:100px 100px 100px 100px;padding:16px 35px 16px 35px;}.elementor-35412 .elementor-element.elementor-element-7a00136f .elementor-button:hover, .elementor-35412 .elementor-element.elementor-element-7a00136f .elementor-button:focus{background-color:transparent;color:#FFFFFF;background-image:linear-gradient(180deg, #F50091 0%, #EC00E3 100%);}.elementor-35412 .elementor-element.elementor-element-7a00136f{width:100%;max-width:100%;}.elementor-35412 .elementor-element.elementor-element-7a00136f.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-35412 .elementor-element.elementor-element-7a00136f .elementor-button:hover svg, .elementor-35412 .elementor-element.elementor-element-7a00136f .elementor-button:focus svg{fill:#FFFFFF;}.elementor-35412 .elementor-element.elementor-element-67169c94{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-35412 .elementor-element.elementor-element-ba37e5c.xpro-widget-bg-overlay:before{transition:background 0.3s;}.elementor-35412 .elementor-element.elementor-element-ba37e5c img{width:80%;}body.elementor-page-35412:not(.elementor-motion-effects-element-type-background), body.elementor-page-35412 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#191919;}@media(max-width:1024px){.elementor-35412 .elementor-element.elementor-element-65424b99{--min-height:80vh;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--flex-wrap:wrap;--margin-top:0%;--margin-bottom:0%;--margin-left:0%;--margin-right:0%;}.elementor-35412 .elementor-element.elementor-element-1756656c{--min-height:50vh;--padding-top:0%;--padding-bottom:0%;--padding-left:20%;--padding-right:20%;}.elementor-35412 .elementor-element.elementor-element-67fac6fe{width:100%;max-width:100%;}.elementor-35412 .elementor-element.elementor-element-67fac6fe.elementor-element{--align-self:center;}.elementor-35412 .elementor-element.elementor-element-757691f > .elementor-widget-container{margin:6% 0% 6% 0%;}.elementor-35412 .elementor-element.elementor-element-757691f{text-align:center;}.elementor-35412 .elementor-element.elementor-element-757691f .elementor-heading-title{font-size:14px;}.elementor-35412 .elementor-element.elementor-element-7a00136f .elementor-button{font-size:14px;}.elementor-35412 .elementor-element.elementor-element-67169c94{--min-height:30vh;}}@media(max-width:767px){.elementor-35412 .elementor-element.elementor-element-65424b99{--padding-top:0%;--padding-bottom:0%;--padding-left:6%;--padding-right:6%;}.elementor-35412 .elementor-element.elementor-element-1756656c{--padding-top:0%;--padding-bottom:0%;--padding-left:6%;--padding-right:6%;}.elementor-35412 .elementor-element.elementor-element-67fac6fe{width:var( --container-widget-width, 318.188px );max-width:318.188px;--container-widget-width:318.188px;--container-widget-flex-grow:0;text-align:center;}.elementor-35412 .elementor-element.elementor-element-67fac6fe .elementor-heading-title{font-size:30px;}}@media(min-width:768px){.elementor-35412 .elementor-element.elementor-element-65424b99{--content-width:1060px;}.elementor-35412 .elementor-element.elementor-element-1756656c{--width:52%;}.elementor-35412 .elementor-element.elementor-element-67169c94{--width:56%;}}@media(max-width:1024px) and (min-width:768px){.elementor-35412 .elementor-element.elementor-element-1756656c{--width:100%;}.elementor-35412 .elementor-element.elementor-element-67169c94{--width:100%;}}
+/*# sourceURL=elementor-frontend-inline-css */
+</style>
+<link rel='stylesheet' id='widget-image-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='e-sticky-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/css/modules/sticky.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='https://brandmasteracademy.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.css?ver=4.1.1' media='all' />
+<link rel='stylesheet' id='xpro-elementor-widgetarea-editor-css' href='https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/css/widgetarea-editor.css?ver=1.7.2' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://brandmasteracademy.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.9.6' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://brandmasteracademy.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.9.6' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://brandmasteracademy.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742834379' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://brandmasteracademy.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742834381' media='all' />
+<script type='text/javascript'>
+		var elementskit = {
+			resturl: 'https://brandmasteracademy.com/wp-json/elementskit/v1/',
+		}
+
+		</script><script src="https://brandmasteracademy.com/wp-includes/js/jquery/jquery.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/jquery/jquery-migrate.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script id="breeze-prefetch-js-extra">
+var breeze_prefetch = {"local_url":"https://brandmasteracademy.com","ignore_remote_prefetch":"1","ignore_list":["wp-admin","wp-login.php"]};
+//# sourceURL=breeze-prefetch-js-extra
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/breeze/assets/js/js-front-end/breeze-prefetch-links.min.js?ver=2.5.3" id="breeze-prefetch-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/jquery/ui/core.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/jquery/ui/menu.js?ver=1.13.3" id="jquery-ui-menu-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/dist/dom-ready.js?ver=e8a78afc9e733da0e68c" id="wp-dom-ready-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/dist/hooks.js?ver=220ff17f5667d013d468" id="wp-hooks-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/dist/i18n.js?ver=6b3ae5bd3b8d9598492d" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://brandmasteracademy.com/wp-includes/js/dist/a11y.js?ver=454e8a3cffdca128c277" id="wp-a11y-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.3" id="jquery-ui-autocomplete-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script src="https://brandmasteracademy.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+<script id="tve_frontend-js-extra">
+var tve_frontend_options = {"ajaxurl":"https://brandmasteracademy.com/wp-admin/admin-ajax.php","is_editor_page":"","page_events":[],"is_single":"0","social_fb_app_id":"","dash_url":"https://brandmasteracademy.com/wp-content/plugins/thrive-product-manager/thrive-dashboard","queried_object":[],"query_vars":{"error":"404","certificate_u":""},"$_POST":[],"translations":{"Copy":"Copy","empty_username":"ERROR: The username field is empty.","empty_password":"ERROR: The password field is empty.","empty_login":"ERROR: Enter a username or email address.","min_chars":"At least %s characters are needed","no_headings":"No headings found","registration_err":{"required_field":"\u003Cstrong\u003EError\u003C/strong\u003E: This field is required","required_email":"\u003Cstrong\u003EError\u003C/strong\u003E: Please type your email address","invalid_email":"\u003Cstrong\u003EError\u003C/strong\u003E: The email address isn&#8217;t correct","passwordmismatch":"\u003Cstrong\u003EError\u003C/strong\u003E: Password mismatch"}},"routes":{"posts":"https://brandmasteracademy.com/wp-json/tcb/v1/posts","video_reporting":"https://brandmasteracademy.com/wp-json/tcb/v1/video-reporting","courses":"https://brandmasteracademy.com/wp-json/tva/v1/course_list_element","certificate_search":"https://brandmasteracademy.com/wp-json/tva/v1/certificate/search","assessments":"https://brandmasteracademy.com/wp-json/tva/v1/user/assessment"},"nonce":"7d18ec345d","allow_video_src":"","google_client_id":null,"google_api_key":null,"facebook_app_id":null,"lead_generation_custom_tag_apis":["activecampaign","aweber","convertkit","drip","klicktipp","mailchimp","sendlane","zapier"],"post_request_data":[],"user_profile_nonce":"3a22b2a306","ip":"93.190.142.103","current_user":[],"conditional_display":{"is_tooltip_dismissed":false}};
+//# sourceURL=tve_frontend-js-extra
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/thrive-visual-editor/editor/js/dist/modules/general.min.js?ver=10.8.1" id="tve_frontend-js"></script>
+<link rel="https://api.w.org/" href="https://brandmasteracademy.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://brandmasteracademy.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<!-- start Simple Custom CSS and JS -->
+<!-- Add HTML code to the header or the footer.
+
+For example, you can use the following code for loading the jQuery library from Google CDN:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+or the following one for loading the Bootstrap library from jsDelivr:
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+-- End of the comment --> 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3TYVD6HJX8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3TYVD6HJX8');
+</script><!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<!-- Add HTML code to the header or the footer.
+
+For example, you can use the following code for loading the jQuery library from Google CDN:
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+or the following one for loading the Bootstrap library from jsDelivr:
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+
+-- End of the comment --> 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X4343VKPDD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X4343VKPDD');
+</script><!-- end Simple Custom CSS and JS -->
+<style type="text/css" id="tve_global_variables">:root{--tcb-color-0:rgb(255, 0, 200);--tcb-color-0-h:312;--tcb-color-0-s:100%;--tcb-color-0-l:50%;--tcb-color-0-a:1;--tcb-color-1:rgb(72, 0, 255);--tcb-color-1-h:256;--tcb-color-1-s:100%;--tcb-color-1-l:50%;--tcb-color-1-a:1;--tcb-gradient-0:linear-gradient(180deg, #ffffff 0%, #000000 100%);--tcb-gradient-1:linear-gradient(180deg, #ffffff 0%, #000000 100%);--tcb-gradient-2:linear-gradient(269deg, rgb(255, 0, 208) 0%, rgb(140, 0, 255) 100%);--tcb-gradient-3:linear-gradient(269deg, #ffffff 0%, rgb(255, 0, 151) 0%, rgb(255,0,165) 3%, rgb(255,0,191) 15%, rgb(255,0,176) 15%, rgb(255, 1, 245) 100%, #000000 100%);--tcb-gradient-4:linear-gradient(269deg, rgb(0, 0, 0) 0%, rgb(255, 0, 151) 100%, rgb(119, 0, 255) 100%);--tcb-background-author-image:url(https://secure.gravatar.com/avatar/12a4c815b1ec84b10ddfc012d2623c609063c78f0b1574053a0ed0f28440c010?s=256&r=g);--tcb-background-user-image:url();--tcb-background-featured-image-thumbnail:url(https://brandmasteracademy.com/wp-content/uploads/2026/05/Positioning-Strategy-Explained-2.jpg);--tcb-background-custom-field-acf_bma_page_title_image:url(https://brandmasteracademy.com/wp-content/uploads/2026/05/Positioning-Strategy-Explained-1.jpg);}</style><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4163502264052197" crossorigin="anonymous"></script>
+<style type="text/css">
+body {
+    color: #4a4e57;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.6em;
+    letter-spacing: 0;
+}
+h1 {
+    color: #333333;
+    font-size: 48px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.2em;
+    letter-spacing: 0; 
+}
+h2 {
+    color: #333333;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.2em;
+    letter-spacing: 0; 
+}
+h3 {
+    color: #333333;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.2em;
+    letter-spacing: 0; 
+}
+h4 {
+    color: #333333;
+    font-size: 22px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.2em;
+    letter-spacing: 0; 
+}
+h5 {
+    color: #333333;
+    font-size: 22px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.2em;
+    letter-spacing: 0; 
+}
+h6 {
+    color: #333333;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.2em;
+    letter-spacing: 0; 
+}
+.bma_container {
+    width: 1140px;
+}
+.bma_main_content {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.bma_main_header {
+    background: rgb(0 0 0 / 100%);
+}
+.bma_desktop_menu_position_left .bma_header_menu {
+    text-align: left;
+}
+.bma_desktop_menu_position_center .bma_header_menu {
+    text-align: center;
+}
+.bma_desktop_menu_position_right .bma_header_menu {
+    text-align: right;
+}
+.bma_main_header.bma_sticky_header {
+     background: rgb(0 0 0 / 90%);
+}
+.bma_sticky_header .bma_header_menu ul.menu > li > a,
+.bma_sticky_header .bma_header_left_menu ul.menu > li > a,
+.bma_sticky_header .bma_header_right_menu ul.menu > li > a {
+    line-height: 60px;
+}
+header.bma_header_full_screen_style .bma_header_menu .menu-main-menu-container {
+    display: none;
+}
+header.bma_header_full_screen_style .bma_header_mobile_menu {
+    display: block;
+    line-height: 120px;
+}
+.bma_header_mobile_menu_target {
+    background-color: #1c1c1c;
+}
+.bma_header_mobile_menu_target .menu > li > a {
+    text-decoration: none;
+    font-size: 16px !important;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.6em;
+    letter-spacing: 0; 
+    padding: 18px 30px;
+    display: inline-block;
+    background: transparent !important;
+}
+.bma_header_mobile_menu_target .menu > li > a:hover {
+    color: #ff007a;
+}
+.bma_header_mobile_menu_target .menu > li.current-menu-item > a {
+    color: #ff007a;
+}
+
+.bma_footer_top,
+#menu-footer-left-menu > li > a,
+#menu-footer-right-menu > li > a {
+    color: #bababa;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.6em;
+    letter-spacing: 0; 
+}
+.bma_footer_top a:hover,
+#menu-footer-left-menu > li > a:hover,
+#menu-footer-right-menu > li > a:hover {
+    color: #ff007a;
+}
+
+.bma_footer_copyright_wrap, 
+.bma_footer_copyright_wrap a {
+    color: #adadad;
+    font-size: 12px;
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    line-height: 1.6em;
+    letter-spacing: 0; 
+}
+.bma_footer_copyright_wrap a:hover {
+    color: #ff007a;
+}
+
+.bma_footer_top {
+    background: #000000;
+}
+.bma_footer_bottom {
+    background-color: #212121;
+}
+.bma_footer_top_inner {
+    padding: 60px 0 40px;
+}
+.bma_footer_bottom_inner {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+@media only screen and (min-width: 1101px ) {
+    .bma_main_header.bma_sticky_header {
+      position:fixed;
+      -webkit-animation: sticky-header 0.7s;
+      -moz-animation: sticky-header 0.7s;
+      animation: sticky-header 0.7s;
+      width: 100%;
+      top: 0;
+    }
+    @-webkit-keyframes sticky-header { 
+      0% { 
+        opacity:0; 
+        transform:translateY(-100%);
+      }
+      100% { 
+        opacity:0.9; 
+        transform:translateY(0);
+      }
+    }
+    @-moz-keyframes sticky-header { 
+      0% { 
+        opacity:0; 
+        transform:translateY(-100%);
+      }
+      100% { 
+        opacity:0.9; 
+        transform:translateY(0);
+      }
+    }
+    @keyframes sticky-header { 
+      0% { 
+        opacity:0; 
+        transform:translateY(-100%);
+      }
+      100% { 
+        opacity:0.9; 
+        transform:translateY(0);
+      }
+    }
+    .bma_main_header.bma_transparent_header:not(.bma_sticky_header) {
+        background: transparent !important;
+    }
+    .bma_main_header.bma_transparent_header + .bma_sticky_header_fallback_heigh {
+        height: 0 !important;
+        min-height: 0 !important;
+    }
+    .admin-bar .bma_main_header {
+        top: 32px;
+    }
+     .bma_header_center_style .bma_header_menu {
+         display: none;
+     }
+     .bma_header_center_style .bma_header_left_menu, 
+     .bma_header_center_style .bma_header_right_menu {
+         width: calc(50% - 90px);
+         text-align: center;
+     }
+     .bma_header_menu ul.menu > li {
+         display: inline-block;
+         padding-right: 40px;
+     }
+     .bma_header_left_menu ul.menu > li,
+     .bma_header_right_menu ul.menu > li {
+         display: inline-block;
+         padding-left: 20px;
+         padding-right: 20px;
+     }
+     .bma_header_menu ul.menu > li > a,
+     .bma_header_left_menu ul.menu > li > a,
+     .bma_header_right_menu ul.menu > li > a {
+         color: #ffffff;
+         text-decoration: none !important;
+         font-family: Montserrat;
+         font-size: 17px;
+         line-height: 120px;
+         font-weight: 500;
+         font-style: normal;
+         text-transform: none;
+         letter-spacing: ;
+         display: inline-block;
+         border-top: 3px solid transparent;
+         border-bottom: 3px solid transparent !important;
+     }
+     header:not(.bma_desktop_menu_position_center) .bma_header_menu ul.menu > li:last-child {
+         padding-right: 0;
+     }
+     .bma_header_menu ul.menu > li > a:hover,
+     .bma_header_left_menu ul.menu > li > a:hover,
+     .bma_header_right_menu ul.menu > li > a:hover {
+         border-top-color: #ff007a;
+         color: #ff007a;
+     }
+     .bma_header_menu ul.menu > li.current-menu-item > a,
+     .bma_header_left_menu ul.menu > li.current-menu-item > a,
+     .bma_header_right_menu ul.menu > li.current-menu-item > a {
+         border-top-color: #ff007a;
+         color: #ff007a;
+     }
+     .bma_header_medium_style:not(.bma_sticky_header) .bma_header_menu {
+         width: 100%;
+         padding-left: 0;
+         border-top: 1px solid rgb(255 255 255 / 25%);
+     }
+     .bma_header_medium_style:not(.bma_sticky_header) .bma_main_header_inner {
+         flex-flow: row wrap;
+         justify-content: center;
+     }
+     .bma_header_medium_style:not(.bma_sticky_header) .bma_header_logo {
+         padding-top: 20px;
+         padding-bottom: 20px;
+     }
+     .bma_main_header_inner ul.menu .sub-menu {
+         position: absolute;
+         background: #000000;
+         list-style: none;
+         text-align: center;
+         margin: 0;
+         padding: 0;
+         width: 240px;
+         left: calc(50% - 20px);
+         transform: translateX(-50%);
+         border-radius: 10px;
+         box-shadow: 0 10px 30px rgb(0 0 0 / 25%);
+         transition: all .3s ease-in-out .0s;
+         opacity: 0;
+         visibility: hidden;
+     }
+     .bma_main_header_inner ul.menu .menu-item-has-children:hover > .sub-menu {
+         opacity: 1;
+         visibility: visible;
+     }
+     .bma_main_header_inner ul.menu .sub-menu li + li {
+         border-top: 1px solid rgb(255 255 255 / 15%);
+     }
+     .bma_main_header_inner ul.menu .sub-menu a {
+         display: block;
+         font-size: 16px;
+         padding: 8px 15px;
+         color: #ffffff;
+         transition: all .3s ease-in-out .0s;
+     }
+     .bma_main_header_inner ul.menu .sub-menu a:hover {
+         color: #ff007a;
+     }
+     .bma_main_header_inner ul.menu .sub-menu .current-menu-item > a {
+         color: #ff007a;
+     }
+	.hp_banner_section.thrv-page-section .tve-page-section-out {
+		height: calc(100vh - 64px) !important;
+	}
+	.hp_banner_section.thrv-page-section .tve-page-section-out + .tve-page-section-in {
+		min-height: calc(100vh - 64px) !important;
+	}
+}
+
+
+@media only screen and (max-width: 1100px ) {
+     .bma_main_header {
+        position: relative !important;
+        background: #000 !important;
+     }
+     .bma_sticky_header_fallback_heigh {
+        display: none !important;
+     }
+     .bma_sticky_header .bma_main_logo_img {
+        display: inline-block;
+     }
+     .bma_sticky_header .bma_sticky_logo_img {
+        display: none;
+     }
+     .bma_header_mobile_menu {
+        display: block;
+        line-height: 100px;
+     }
+     .bma_header_menu .menu-main-menu-container {
+        display: none;
+     }
+     .bma_header_left_menu, 
+     .bma_header_right_menu {
+         display: none !important;
+     }
+     .bma_main_header_inner ul.menu .sub-menu {
+         padding: 0;
+         margin: 0;
+     }
+     .bma_header_mobile_menu_target .menu .sub-menu {
+         margin: -10px 0 5px;
+         padding: 0;
+     }
+     .bma_header_mobile_menu_target .menu .sub-menu a {
+         color: #ffffff;
+         font-size: 16px;
+         transition: all .3s ease-in-out .0s;
+     }
+     .bma_header_mobile_menu_target .menu .sub-menu a:hover {
+         color: #ff007a;
+     }
+     .bma_header_mobile_menu_target .menu .sub-menu .current-menu-item > a {
+         color: #ff007a;
+     }
+     .bma_header_mobile_menu_target .menu .sub-menu a::before {
+         content: "- ";
+     }
+     .bma_header_mobile_menu_target .menu .sub-menu a::after {
+         content: " -";
+     }
+}
+
+
+@media only screen and (max-width: 1100px){
+     body {
+                                   }
+     h1 {
+                                   }
+     h2 {
+                                   }
+     h3 {
+                                   }
+     h4 {
+                                   }
+     h5 {
+                                   }
+     h6 {
+                                   }
+     .bma_header_menu ul.menu > li > a,
+     .bma_header_left_menu ul.menu > li > a,
+     .bma_header_right_menu ul.menu > li > a {
+                         }
+     .bma_header_mobile_menu_target .menu > li > a {
+                                   }
+     .bma_footer_top,
+     #menu-footer-left-menu > li > a,
+     #menu-footer-right-menu > li > a {
+                              
+     }
+     .bma_footer_copyright_wrap, 
+     .bma_footer_copyright_wrap a {
+                               
+     }
+} /*End max-width: 1100px*/
+
+
+@media only screen and (max-width: 1000px ) {
+    .bma_single_post_content_aside {
+        display: none;
+        width: 100%;
+    }
+    .bma_single_post_content_article {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 767px ) {
+    .bma_single_post_item {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+     body {
+                                   }
+     h1 {
+                                   }
+     h2 {
+                                   }
+     h3 {
+                                   }
+     h4 {
+                                   }
+     h5 {
+                                   }
+     h6 {
+                                   }
+     .bma_header_menu ul.menu > li > a,
+     .bma_header_left_menu ul.menu > li > a,
+     .bma_header_right_menu ul.menu > li > a {
+                        }
+     .bma_header_mobile_menu_target .menu > li > a {
+                                   }
+     .bma_footer_top,
+     #menu-footer-left-menu > li > a,
+     #menu-footer-right-menu > li > a {
+                              
+     }
+     .bma_footer_copyright_wrap, 
+     .bma_footer_copyright_wrap a {
+                               
+     }
+} /*End max-width: 767px*/
+
+</style>
+<meta name="generator" content="Elementor 4.1.1; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-swap">
+<link rel="preconnect" href="//code.tidio.co">			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://brandmasteracademy.com/wp-content/uploads/2025/04/cropped-BMA-All-Access-Logo-B-4.png" sizes="32x32" />
+<link rel="icon" href="https://brandmasteracademy.com/wp-content/uploads/2025/04/cropped-BMA-All-Access-Logo-B-4.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://brandmasteracademy.com/wp-content/uploads/2025/04/cropped-BMA-All-Access-Logo-B-4.png" />
+<meta name="msapplication-TileImage" content="https://brandmasteracademy.com/wp-content/uploads/2025/04/cropped-BMA-All-Access-Logo-B-4.png" />
+<style type="text/css" class="tve_global_style">@import url("//fonts.googleapis.com/css?family=Montserrat:400,500,700,800,900&subset=latin");@import url("//fonts.googleapis.com/css?family=Montserrat:400,800,700,900,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Montserrat:400,700,800,900,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700,900,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,600,700,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700,900,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,700&subset=latin");@import url("//fonts.googleapis.com/css?family=Work+Sans:400,600,700,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Montserrat:400,800,700,900,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Montserrat:400,800,700,900,500&subset=latin");@import url("//fonts.googleapis.com/css?family=Montserrat:400,700,800,900,500&subset=latin");@media(min-width: 300px){.tcb-global-button-ldb83e1h .tcb-button-link{letter-spacing: 2px;border-radius: 10px;border: none;--tve-applied-border: none;padding: 14px 22px;overflow: hidden;box-shadow: 0px 0px 36px -40px rgb(255,0,200);--tve-applied-box-shadow: 0px 0px 36px -40px var$(--tcb-color-0);background-image: linear-gradient(269deg,#ffffff 0%,rgb(255,0,151) 0%,rgb(255,0,165) 3%,rgb(255,0,191) 15%,rgb(255,0,176) 15%,rgb(255,1,245) 100%,#000000 100%) !important;--tve-applied-background-image: var$(--tcb-gradient-3) !important;background-size: auto !important;background-attachment: scroll !important;background-position: 50% 50% !important;background-repeat: no-repeat !important;background-color: transparent !important;--background-image: linear-gradient(269deg,#ffffff 0%,rgb(255,0,151) 0%,rgb(255,0,165) 3%,rgb(255,0,191) 15%,rgb(255,0,176) 15%,rgb(255,1,245) 100%,#000000 100%) !important;--background-size: auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;}.tcb-global-button-ldb83e1h .tcb-button-link span{color: rgb(255,255,255);--tcb-applied-color: #fff;}.tcb-global-button-ldb83e1h{--tve-alignment: left;--tve-border-width: 0px;--tve-border-radius: 10px;--tcb-local-color-62516: rgb(255,0,238) !important;}:not(#tve) .tcb-global-button-ldb83e1h-prtext{--g-regular-weight: 400;--g-bold-weight: 500;letter-spacing: 0px;font-family: Montserrat !important;font-weight: var(--g-regular-weight,normal) !important;font-size: 27px !important;}.tcb-global-button-ldb83e1h-prtext strong{font-weight: 500 !important;}:not(#tve) .tcb-global-button-ldb83e1h:hover .tcb-button-link{background-image: linear-gradient(269deg,#ffffff 0%,rgb(255,0,151) 0%,rgb(255,0,165) 3%,rgb(255,0,191) 15%,rgb(255,0,176) 15%,rgb(255,1,245) 100%,#000000 100%) !important;--background-image: linear-gradient(269deg,#ffffff 0%,rgb(255,0,151) 0%,rgb(255,0,165) 3%,rgb(255,0,191) 15%,rgb(255,0,176) 15%,rgb(255,1,245) 100%,#000000 100%) !important;--tve-applied-background-image: var$(--tcb-gradient-3) !important;box-shadow: rgba(0,0,0,0.41) 0px 0px 16px 18px !important;--tve-applied-box-shadow: 0px 0px 16px 18px rgba(0,0,0,0.41) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;}:not(#tve) .tcb-global-button-ldb83e1h .tcb-button-link{line-height: 1.2em;font-size: 24px;}.tcb-global-button-ldbh0r1f{--tve-alignment: left;--tve-letter-spacing: 0px;--tve-line-height: 1.2em;--tcb-local-color-62516: rgb(255,0,122) !important;}.tcb-global-button-ldbh0r1f .tcb-button-link{letter-spacing: var(--tve-letter-spacing,0px);background-image: linear-gradient(var(--tcb-local-color-62516,rgb(19,114,211)),var(--tcb-local-color-62516,rgb(19,114,211)));--tve-applied-background-image: linear-gradient(var$(--tcb-local-color-62516,rgb(19,114,211)),var$(--tcb-local-color-62516,rgb(19,114,211)));background-size: auto;background-attachment: scroll;border-radius: 5px;background-position: 50% 50%;background-repeat: no-repeat;background-color: transparent !important;padding: 17px 0px 17px 45px !important;}.tcb-global-button-ldbh0r1f .tcb-button-link span{color: rgb(255,255,255);--tcb-applied-color: #fff;}:not(#tve) .tcb-global-button-ldbh0r1f-prtext{--g-regular-weight: 400;--g-bold-weight: 700;letter-spacing: 0px;font-family: "Work Sans" !important;font-weight: var(--g-regular-weight,normal) !important;text-transform: uppercase !important;font-size: 16px !important;}.tcb-global-button-ldbh0r1f-prtext strong{font-weight: 700 !important;}.tcb-global-button-ldbh0r1f-prtext{font-weight: var(--g-regular-weight,normal) !important;}.tcb-global-button-ldbh0r1f-icon{--tcb-local-color-icon: rgb(255,255,255);--tcb-local-color-var: rgb(255,255,255);--tve-icon-size: 18px;padding-left: 18px !important;padding-right: 18px !important;margin-left: 45px !important;}:not(#tve) .tcb-global-button-ldbh0r1f .tcb-button-link{line-height: var(--tve-line-height,1.2em);}.tcb-global-button-ldch3xfs .tcb-button-link{letter-spacing: 2px;background-color: transparent !important;background-image: linear-gradient(rgb(76,158,0),rgb(76,158,0)) !important;--tve-applied-background-image:linear-gradient(rgb(76,158,0),rgb(76,158,0)) !important;background-size: auto !important;background-attachment: scroll !important;border-radius: 2px;padding: 17px 40px !important;background-position: 50% 50% !important;background-repeat: no-repeat !important;--background-image:linear-gradient(rgb(76,158,0),rgb(76,158,0)) !important;--background-size:auto !important;--background-position:50% 50% !important;--background-attachment:scroll !important;--background-repeat:no-repeat !important;overflow: hidden;}.tcb-global-button-ldch3xfs .tcb-button-link span{color: rgb(255,255,255);--tcb-applied-color:#fff;}:not(#tve) .tcb-global-button-ldch3xfs-prtext{font-family: "Work Sans" !important;--g-regular-weight:400;--g-bold-weight:700;font-weight: var(--g-regular-weight,normal) !important;letter-spacing: 0px;font-size: 25px !important;}.tcb-global-button-ldch3xfs-prtext strong{font-weight: 700 !important;}.tcb-global-button-ldch3xfs{--tve-border-radius:2px;--tve-alignment:center;}:not(#tve) .tcb-global-button-ldch3xfs:hover .tcb-button-link{background-image: linear-gradient(rgb(91,211,0),rgb(91,211,0)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image:linear-gradient(rgb(91,211,0),rgb(91,211,0)) !important;--background-size:auto !important;--background-position:50% 50% !important;--background-attachment:scroll !important;--background-repeat:no-repeat !important;--tve-applied-background-image:linear-gradient(rgb(91,211,0),rgb(91,211,0)) !important;}.tcb-global-button-ldor6qha{--tve-alignment:left;--tcb-local-color-62516:rgb(0,0,0) !important;}.tcb-global-button-ldor6qha .tcb-button-link{letter-spacing: 2px;background-image: linear-gradient(var(--tcb-local-color-62516,rgb(19,114,211)),var(--tcb-local-color-62516,rgb(19,114,211)));--tve-applied-background-image:linear-gradient(var$(--tcb-local-color-62516,rgb(19,114,211)),var$(--tcb-local-color-62516,rgb(19,114,211)));background-size: auto;background-attachment: scroll;border-radius: 5px;background-position: 50% 50%;background-repeat: no-repeat;background-color: transparent !important;padding: 17px 40px !important;}.tcb-global-button-ldor6qha .tcb-button-link span{color: rgb(255,255,255);--tcb-applied-color:#fff;}:not(#tve) .tcb-global-button-ldor6qha-prtext{--g-regular-weight:400;--g-bold-weight:700;letter-spacing: 0px;font-family: "Work Sans" !important;font-weight: var(--g-regular-weight,normal) !important;font-size: 18px !important;text-transform: uppercase !important;}.tcb-global-button-ldor6qha-prtext strong{font-weight: 700 !important;}:not(#tve) .tcb-global-button-ldor6qha:hover .tcb-button-link{background-image: linear-gradient(rgb(61,61,61),rgb(61,61,61)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image:linear-gradient(rgb(61,61,61),rgb(61,61,61)) !important;--background-size:auto !important;--background-position:50% 50% !important;--background-attachment:scroll !important;--background-repeat:no-repeat !important;--tve-applied-background-image:linear-gradient(rgb(61,61,61),rgb(61,61,61)) !important;}.tcb-global-button-lhuv5sn2 .tcb-button-link{letter-spacing: var(--tve-letter-spacing,0.50px);background-color: transparent !important;background-image: linear-gradient(var(--tcb-local-color-62516,rgb(19,114,211)),var(--tcb-local-color-62516,rgb(19,114,211)));--tve-applied-background-image: linear-gradient(var$(--tcb-local-color-62516,rgb(19,114,211)),var$(--tcb-local-color-62516,rgb(19,114,211)));background-size: auto;background-attachment: scroll;border-radius: 50px;padding-top: 18px;padding-right: 40px !important;padding-bottom: 18px;padding-left: 40px !important;background-position: 50% 50%;background-repeat: no-repeat;overflow: hidden;}.tcb-global-button-lhuv5sn2 .tcb-button-link span{color: rgb(255,255,255);--tcb-applied-color: #fff;}.tcb-global-button-lhuv5sn2{--tcb-local-color-62516: rgb(255,0,151) !important;--tve-font-weight: var(--g-bold-weight,bold);--tve-font-family: "Work Sans";--g-regular-weight: 400;--g-bold-weight: 600;--tve-letter-spacing: 0.50px;--tve-border-radius: 50px;--tve-font-size: 20px;}:not(#tve) .tcb-global-button-lhuv5sn2 .tcb-button-link span{font-weight: var(--tve-font-weight,var(--g-bold-weight,bold));}:not(#tve) .tcb-global-button-lhuv5sn2 .tcb-button-link{font-family: var(--tve-font-family,"Work Sans");font-size: var(--tve-font-size,20px) !important;}:not(#tve) [data-css="tve-u-1883524b8f9"]:hover .tcb-global-button-lhuv5sn2-prtext{color: rgb(255,255,255) !important;--tcb-applied-color: rgb(255,255,255) !important;--tve-applied-color: rgb(255,255,255) !important;}:not(#tve) .tcb-global-button-lhuv5sn2:hover .tcb-button-link{background-image: linear-gradient(rgb(40,58,239),rgb(40,58,239)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgb(40,58,239),rgb(40,58,239)) !important;--background-size: auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(rgb(40,58,239),rgb(40,58,239)) !important;}.tcb-global-button-ljiy7uhs .tcb-button-link{letter-spacing: 2px;border-radius: 10px;text-align: center;border: 3px solid rgb(255,1,245);--tve-applied-border: 3px solid rgb(255,1,245);overflow: hidden;padding: 12px 15px;background-color: transparent !important;background-image: linear-gradient(rgba(19,114,211,0),rgba(19,114,211,0)) !important;--tve-applied-background-image: linear-gradient(rgba(19,114,211,0),rgba(19,114,211,0)) !important;background-size: auto !important;background-attachment: scroll !important;background-position: 50% 50% !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgba(19,114,211,0),rgba(19,114,211,0)) !important;--background-size: auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;}.tcb-global-button-ljiy7uhs .tcb-button-link span{color: rgb(255,255,255);--tcb-applied-color: #fff;}.tcb-global-button-ljiy7uhs{--tve-alignment: left;--tve-border-width: 3px;--tve-border-radius: 10px;--tve-font-size: 12px;--tcb-local-color-62516: rgb(197,92,193) !important;}:not(#tve) .tcb-global-button-ljiy7uhs-prtext{--g-regular-weight: 400;--g-bold-weight: 600;letter-spacing: 0px;color: rgb(255,1,245) !important;--tcb-applied-color: rgb(255,1,245) !important;--tve-applied-color: rgb(255,1,245) !important;font-family: "Work Sans" !important;font-weight: var(--g-regular-weight,normal) !important;font-size: 16px !important;text-transform: none !important;}.tcb-global-button-ljiy7uhs-prtext strong{font-weight: 600 !important;}:not(#tve) .tcb-global-button-ljiy7uhs-prtext:hover{color: rgb(255,255,255) !important;--tcb-applied-color: rgb(255,255,255) !important;--tve-applied-color: rgb(255,255,255) !important;}:not(#tve) .tcb-global-button-ljiy7uhs:hover .tcb-button-link{background-image: linear-gradient(rgb(255,1,245),rgb(255,1,245)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgb(255,1,245),rgb(255,1,245)) !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(rgb(255,1,245),rgb(255,1,245)) !important;}:not(#tve) .tcb-global-button-ljiy7uhs:hover .tcb-button-link span{color: var(--tve-color,rgb(255,255,255)) !important;--tve-applied-color: var$(--tve-color,rgb(255,255,255)) !important;--tcb-applied-color: rgb(255,255,255) !important;}:not(#tve) .tcb-global-button-ljiy7uhs:hover{--tve-color: rgb(255,255,255) !important;--tve-applied---tve-color: rgb(255,255,255) !important;}:not(#tve) .tcb-global-button-ljiy7uhs .tcb-button-link{font-size: var(--tve-font-size,12px) !important;line-height: 1.2em;}.tcb-global-section-lde2j19p .tve-page-section-in{justify-content: center;display: flex;flex-direction: column;}.tcb-global-section-lde2j19p-out{background-image: linear-gradient(270deg,rgb(237,8,140) 0%,rgb(237,0,255) 100%) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image:linear-gradient(270deg,rgb(237,8,140) 0%,rgb(237,0,255) 100%) !important;--background-size:auto !important;--background-position:50% 50% !important;--background-attachment:scroll !important;--background-repeat:no-repeat !important;--tve-applied-background-image:linear-gradient(270deg,rgb(237,8,140) 0%,rgb(237,0,255) 100%) !important;background-color: transparent !important;--background-color:transparent !important;--tve-applied-background-color:transparent !important;}.tcb-global-section-lkuuism8-out{background-image: linear-gradient(rgb(249,249,249),rgb(249,249,249)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgb(249,249,249),rgb(249,249,249)) !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(rgb(249,249,249),rgb(249,249,249)) !important;}.tcb-global-section-lkuujjo3-out{background-image: none !important;--background-image: none !important;--tve-applied-background-image: none !important;}.tcb-global-section-lkuujxt3-out{background-image: linear-gradient(rgb(249,249,249),rgb(249,249,249)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgb(249,249,249),rgb(249,249,249)) !important;--background-size: auto auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(rgb(249,249,249),rgb(249,249,249)) !important;}.tcb-global-section-lp1x4ltc .tve-page-section-in{justify-content: center;display: flex;flex-direction: column;}.tcb-global-section-lp1x4ltc-out{background-image: linear-gradient(rgb(0,0,0),rgb(0,0,0)) !important;background-size: auto !important;background-position: 50% 50% !important;background-attachment: scroll !important;background-repeat: no-repeat !important;--background-image: linear-gradient(rgb(0,0,0),rgb(0,0,0)) !important;--background-size: auto !important;--background-position: 50% 50% !important;--background-attachment: scroll !important;--background-repeat: no-repeat !important;--tve-applied-background-image: linear-gradient(rgb(0,0,0),rgb(0,0,0)) !important;}}@media(max-width: 767px){:not(#tve) .tcb-global-button-ldb83e1h-prtext{font-size: 18px !important;}.tcb-global-button-ldbh0r1f .tcb-button-link{padding-top: 15px !important;padding-bottom: 15px !important;padding-left: 15px !important;}.tcb-global-button-ldbh0r1f-icon{margin-left: 15px !important;}.tcb-global-button-ldch3xfs .tcb-button-link{padding: 15px 20px !important;}.tcb-global-button-ldch3xfs{--tve-alignment:center;}:not(#tve) .tcb-global-button-lhuv5sn2 .tcb-button-link{font-size: var(--tve-font-size,16px) !important;}.tcb-global-button-lhuv5sn2{--tve-font-size: 16px;}:not(#tve) .tcb-global-button-ljiy7uhs-prtext{font-size: 18px !important;}.tcb-global-button-ljiy7uhs .tcb-button-link{padding: 16px 30px !important;}}@media(max-width: 1023px){.tcb-global-button-ldbh0r1f .tcb-button-link{padding-left: 20px !important;}.tcb-global-button-ldbh0r1f-icon{margin-left: 20px !important;}:not(#tve) .tcb-global-button-ldch3xfs-prtext{font-size: 20px !important;}.tcb-global-button-ldch3xfs{--tve-alignment:center;}.tcb-global-button-ldch3xfs .tcb-button-link{padding-left: 25px !important;padding-right: 25px !important;}:not(#tve) .tcb-global-button-lhuv5sn2 .tcb-button-link{font-size: var(--tve-font-size,18px) !important;}.tcb-global-button-lhuv5sn2{--tve-font-size: 18px;}}</style>		<style id="wp-custom-css">
+			
+
+/** Start Template Kit CSS: Internet Company (css/customizer.css) **/
+
+/* Envato Custom css - applied to the advanced tab of the element it affects */
+.envato-kit-200-progress .elementor-progress-wrapper,
+.envato-kit-200-progress .elementor-progress-bar{
+	border-radius: 30px;
+}
+
+/** End Template Kit CSS: Internet Company (css/customizer.css) **/
+
+/* Related Posts: uniform boxes with images filling the container */
+.bma_related_post_section {
+  margin-top: 60px;
+  width: 100%;
+}
+
+.bma_related_post_wrap {
+  display: flex;
+  flex-wrap: nowrap; /* one line only */
+  justify-content: space-between;
+  gap: 10px;
+  width: 100%;
+  align-items: stretch;
+}
+
+/* Each card box */
+.bma_related_post_item {
+  flex: 1 1 0;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  height: 220px; /* box height — adjust as needed */
+}
+
+.bma_related_post_item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+}
+
+/* Make the image behave like a background cover */
+.bma_related_post_item .bma_related_post_item_inner {
+  position: absolute;
+  inset: 0; /* top:0, right:0, bottom:0, left:0 */
+}
+
+.bma_related_post_item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;     /* fills box without stretching */
+  object-position: center; /* keeps image centered */
+  display: block;
+  border-radius: 0;
+}
+
+/* Optional: make it responsive */
+@media (max-width: 1024px) {
+  .bma_related_post_wrap {
+    overflow-x: auto;
+    scrollbar-width: thin;
+  }
+
+  .bma_related_post_item {
+    flex: 0 0 320px; /* fixed box width on scrollable view */
+  }
+
+}
+
+
+		</style>
+		</head>
+<body class="error404 wp-theme-brand-master-academy hfeed tve-theme-21953 thrive-layout-21938 elementor-default elementor-template-full-width elementor-kit-24642 elementor-page-35410 elementor-page-35412">
+		<header data-elementor-type="header" data-elementor-id="27241" class="elementor elementor-27241 elementor-location-header" data-elementor-post-type="elementor_library">
+			<header class="elementor-element elementor-element-64d0433e e-flex e-con-boxed e-con e-parent" data-id="64d0433e" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-678c867a e-con-full e-flex e-con e-child" data-id="678c867a" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-4ee2f07e elementor-widget elementor-widget-image" data-id="4ee2f07e" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://brandmasteracademy.com">
+							<img fetchpriority="high" width="1000" height="400" src="https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-white-1000.png" class="attachment-1536x1536 size-1536x1536 wp-image-27260" alt="" srcset="https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-white-1000.png 1000w, https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-white-1000-300x120.png 300w, https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-white-1000-768x307.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />								</a>
+															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-491c0c69 e-con-full e-flex e-con e-child" data-id="491c0c69" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-960fab3 elementor-nav-menu__align-justify elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="960fab3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-960fab3" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27929"><a href="https://brandmasteracademy.com/bma-all-access/" class="elementor-item">Membership</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31145"><a href="https://brandmasteracademy.com/bma-all-access" class="elementor-sub-item">BMA All Access</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27931"><a href="https://brandmasteracademy.com/brand-strategy-curriculum-programs/" class="elementor-sub-item">Strategy Curriculum</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28180"><a href="https://brandmasteracademy.com/brand-master-academy-reviews-real-results/" class="elementor-sub-item">Real Results</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27932"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-item">Resources</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27933"><a href="https://brandmasteracademy.com/brand-master-podcast/" class="elementor-sub-item">Podcast</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27934"><a href="https://brandmasteracademy.com/bma-blog/" class="elementor-sub-item">Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27935"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-sub-item">Free Resources</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27936"><a href="https://probrandbuilder-directory.brandmasteracademy.com/probrandbuilder/" class="elementor-item">Partners</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28181"><a href="https://brandmasteracademy.com/get-certified/" class="elementor-sub-item">Get BMA Certified</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28182"><a href="https://probrandbuilder-directory.brandmasteracademy.com/probrandbuilder/" class="elementor-sub-item">ProBrandBuilder Directory</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-960fab3" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27929"><a href="https://brandmasteracademy.com/bma-all-access/" class="elementor-item" tabindex="-1">Membership</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31145"><a href="https://brandmasteracademy.com/bma-all-access" class="elementor-sub-item" tabindex="-1">BMA All Access</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27931"><a href="https://brandmasteracademy.com/brand-strategy-curriculum-programs/" class="elementor-sub-item" tabindex="-1">Strategy Curriculum</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28180"><a href="https://brandmasteracademy.com/brand-master-academy-reviews-real-results/" class="elementor-sub-item" tabindex="-1">Real Results</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27932"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-item" tabindex="-1">Resources</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27933"><a href="https://brandmasteracademy.com/brand-master-podcast/" class="elementor-sub-item" tabindex="-1">Podcast</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27934"><a href="https://brandmasteracademy.com/bma-blog/" class="elementor-sub-item" tabindex="-1">Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27935"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-sub-item" tabindex="-1">Free Resources</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27936"><a href="https://probrandbuilder-directory.brandmasteracademy.com/probrandbuilder/" class="elementor-item" tabindex="-1">Partners</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28181"><a href="https://brandmasteracademy.com/get-certified/" class="elementor-sub-item" tabindex="-1">Get BMA Certified</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28182"><a href="https://probrandbuilder-directory.brandmasteracademy.com/probrandbuilder/" class="elementor-sub-item" tabindex="-1">ProBrandBuilder Directory</a></li>
+</ul>
+</li>
+</ul>			</nav>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-36eb6980 elementor-mobile-align-right elementor-widget-mobile__width-initial elementor-widget elementor-widget-button" data-id="36eb6980" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://brandmasteracademy.com/bma-all-access/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Join Now</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-b1ccaa5 elementor-nav-menu__align-justify elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--dropdown-mobile elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="b1ccaa5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-b1ccaa5" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29576"><a class="elementor-item">Login</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29588"><a href="https://login.circle.so/sign_in?request_host=all-access.brandmasteracademy.com#email" class="elementor-sub-item elementor-item-anchor">All Access</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29589"><a href="https://pro.brandmasteracademy.com/users/sign_in" class="elementor-sub-item">Programs</a></li>
+</ul>
+</li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-b1ccaa5" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29576"><a class="elementor-item" tabindex="-1">Login</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29588"><a href="https://login.circle.so/sign_in?request_host=all-access.brandmasteracademy.com#email" class="elementor-sub-item elementor-item-anchor" tabindex="-1">All Access</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29589"><a href="https://pro.brandmasteracademy.com/users/sign_in" class="elementor-sub-item" tabindex="-1">Programs</a></li>
+</ul>
+</li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+					</div>
+				</header>
+				</header>
+				<div data-elementor-type="error-404" data-elementor-id="35412" class="elementor elementor-35412 elementor-location-single" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-65424b99 e-flex e-con-boxed e-con e-parent" data-id="65424b99" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-1756656c e-con-full e-flex e-con e-child" data-id="1756656c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-67fac6fe elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="67fac6fe" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h1 class="elementor-heading-title elementor-size-default">The Page Is <br>Not Found</h1>				</div>
+				</div>
+				<div class="elementor-element elementor-element-757691f elementor-invisible elementor-widget elementor-widget-heading" data-id="757691f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">We couldn't find the page you are looking for.</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7a00136f elementor-tablet-align-center elementor-mobile-align-center elementor-widget__width-inherit elementor-invisible elementor-widget elementor-widget-button" data-id="7a00136f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://brandmasteracademy.com">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">back to home</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-67169c94 e-con-full e-flex e-con e-child" data-id="67169c94" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ba37e5c elementor-widget elementor-widget-image" data-id="ba37e5c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="628" height="1024" src="https://brandmasteracademy.com/wp-content/uploads/2025/11/404Asset-2-628x1024.png" class="attachment-large size-large wp-image-35416" alt="" srcset="https://brandmasteracademy.com/wp-content/uploads/2025/11/404Asset-2-628x1024.png 628w, https://brandmasteracademy.com/wp-content/uploads/2025/11/404Asset-2-184x300.png 184w, https://brandmasteracademy.com/wp-content/uploads/2025/11/404Asset-2-768x1252.png 768w, https://brandmasteracademy.com/wp-content/uploads/2025/11/404Asset-2-942x1536.png 942w, https://brandmasteracademy.com/wp-content/uploads/2025/11/404Asset-2-scaled.png 1256w" sizes="(max-width: 628px) 100vw, 628px" />															</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				<footer data-elementor-type="footer" data-elementor-id="27268" class="elementor elementor-27268 elementor-location-footer" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-657eca45 e-flex e-con-boxed e-con e-parent" data-id="657eca45" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-6b1395f0 e-con-full e-flex e-con e-child" data-id="6b1395f0" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-379fd10 e-con-full elementor-hidden-desktop e-flex e-con e-child" data-id="379fd10" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b25d030 e-con-full e-flex e-con e-child" data-id="b25d030" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-2b92bae elementor-widget elementor-widget-heading" data-id="2b92bae" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Membership</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-095f3f8 elementor-widget__width-initial elementor-nav-menu__align-start elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="095f3f8" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-095f3f8" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28186"><a href="https://brandmasteracademy.com/bma-all-access/" class="elementor-item">BMA All Access</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28314"><a href="https://brandmasteracademy.com/get-certified/" class="elementor-item">Get Certified</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29435"><a href="https://login.circle.so/sign_in?request_host=all-access.brandmasteracademy.com#email" class="elementor-item elementor-item-anchor">Members Login</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-095f3f8" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28186"><a href="https://brandmasteracademy.com/bma-all-access/" class="elementor-item" tabindex="-1">BMA All Access</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28314"><a href="https://brandmasteracademy.com/get-certified/" class="elementor-item" tabindex="-1">Get Certified</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29435"><a href="https://login.circle.so/sign_in?request_host=all-access.brandmasteracademy.com#email" class="elementor-item elementor-item-anchor" tabindex="-1">Members Login</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2bddf8f e-con-full e-flex e-con e-child" data-id="2bddf8f" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-db5b84a elementor-widget elementor-widget-heading" data-id="db5b84a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Curriculum</h2>				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3836a5c e-con-full e-flex e-con e-child" data-id="3836a5c" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5e941d0 elementor-widget elementor-widget-heading" data-id="5e941d0" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Resources</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e983b90 elementor-widget__width-initial elementor-nav-menu__align-start elementor-widget-tablet__width-initial elementor-widget-mobile__width-initial elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="e983b90" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-e983b90" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28189"><a href="https://brandmasteracademy.com/brand-master-podcast/" class="elementor-item">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28190"><a href="https://brandmasteracademy.com/bma-blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28191"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-item">Free Resources</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-e983b90" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28189"><a href="https://brandmasteracademy.com/brand-master-podcast/" class="elementor-item" tabindex="-1">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28190"><a href="https://brandmasteracademy.com/bma-blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28191"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-item" tabindex="-1">Free Resources</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-0997660 e-con-full e-flex e-con e-child" data-id="0997660" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-691fad8 elementor-widget elementor-widget-heading" data-id="691fad8" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Connect</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-f28640e elementor-widget__width-initial elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="f28640e" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-f28640e" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28315"><a href="https://www.youtube.com/@BrandMasterAcademy" class="elementor-item">Youtube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28316"><a href="http://instagram.com/stephenhouraghan" class="elementor-item">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28318"><a href="http://facebook.com/groups/brandmasteracademy" class="elementor-item">Facebook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28319"><a href="https://brandmasteracademy.com/contact-us/" class="elementor-item">Contact Us</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-f28640e" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28315"><a href="https://www.youtube.com/@BrandMasterAcademy" class="elementor-item" tabindex="-1">Youtube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28316"><a href="http://instagram.com/stephenhouraghan" class="elementor-item" tabindex="-1">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28318"><a href="http://facebook.com/groups/brandmasteracademy" class="elementor-item" tabindex="-1">Facebook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28319"><a href="https://brandmasteracademy.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2add1b2a elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="2add1b2a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://brandmasteracademy.com">
+							<img width="360" height="123" src="https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-White-2-360.png" class="attachment-full size-full wp-image-27251" alt="" srcset="https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-White-2-360.png 360w, https://brandmasteracademy.com/wp-content/uploads/2025/01/BMA-Logo-White-2-360-300x103.png 300w" sizes="(max-width: 360px) 100vw, 360px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-482015b2 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="482015b2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Where branding professionals and entrepreneurs come to learn how to build brands using proven brand strategy systems, processes, and frameworks</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-11220a2 elementor-align-left elementor-widget elementor-widget-button" data-id="11220a2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="https://brandmasteracademy.com/brand-strategy-is-a-system/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text"> Free Training: Brand Strategy 101</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+		<div class="elementor-element elementor-element-57765c2 e-con-full e-flex e-con e-child" data-id="57765c2" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-f0aa9ff elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="f0aa9ff" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>© 2019-2025 Brand Master Academy,  All Rights Reserved</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-807cccb elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="807cccb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<p class="elementor-heading-title elementor-size-default"><a href="https://brandmasteracademy.com/aa-terms-and-conditions/" target="_blank">Privacy Policy</a></p>				</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-fff6344 e-con-full elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-child" data-id="fff6344" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-b9a4d87 e-con-full e-flex e-con e-child" data-id="b9a4d87" data-element_type="container" data-e-type="container">
+		<div class="elementor-element elementor-element-36fd26e e-con-full e-flex e-con e-child" data-id="36fd26e" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-91114e3 elementor-widget elementor-widget-heading" data-id="91114e3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Membership</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5bb28ff elementor-widget__width-initial elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="5bb28ff" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-5bb28ff" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28186"><a href="https://brandmasteracademy.com/bma-all-access/" class="elementor-item">BMA All Access</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28314"><a href="https://brandmasteracademy.com/get-certified/" class="elementor-item">Get Certified</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29435"><a href="https://login.circle.so/sign_in?request_host=all-access.brandmasteracademy.com#email" class="elementor-item elementor-item-anchor">Members Login</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-5bb28ff" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28186"><a href="https://brandmasteracademy.com/bma-all-access/" class="elementor-item" tabindex="-1">BMA All Access</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28314"><a href="https://brandmasteracademy.com/get-certified/" class="elementor-item" tabindex="-1">Get Certified</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29435"><a href="https://login.circle.so/sign_in?request_host=all-access.brandmasteracademy.com#email" class="elementor-item elementor-item-anchor" tabindex="-1">Members Login</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ed18564 e-con-full e-flex e-con e-child" data-id="ed18564" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-9aa2385 elementor-widget elementor-widget-heading" data-id="9aa2385" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Curriculum</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-028aed8 elementor-widget__width-initial elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="028aed8" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-028aed8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29145"><a href="https://brandmasteracademy.com/brand-strategy-curriculum-programs/" class="elementor-item">Programs</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-028aed8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29145"><a href="https://brandmasteracademy.com/brand-strategy-curriculum-programs/" class="elementor-item" tabindex="-1">Programs</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-be08a19 e-con-full e-flex e-con e-child" data-id="be08a19" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-ac063d1 elementor-widget elementor-widget-heading" data-id="ac063d1" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Resources</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-b56efb4 elementor-widget__width-initial elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="b56efb4" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-b56efb4" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28189"><a href="https://brandmasteracademy.com/brand-master-podcast/" class="elementor-item">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28190"><a href="https://brandmasteracademy.com/bma-blog/" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28191"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-item">Free Resources</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-b56efb4" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28189"><a href="https://brandmasteracademy.com/brand-master-podcast/" class="elementor-item" tabindex="-1">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28190"><a href="https://brandmasteracademy.com/bma-blog/" class="elementor-item" tabindex="-1">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28191"><a href="https://brandmasteracademy.com/free-resources/" class="elementor-item" tabindex="-1">Free Resources</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3a147c4 e-con-full e-flex e-con e-child" data-id="3a147c4" data-element_type="container" data-e-type="container">
+				<div class="elementor-element elementor-element-5d11f9a elementor-widget elementor-widget-heading" data-id="5d11f9a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Connect</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ff31db3 elementor-widget__width-initial elementor-nav-menu__align-start elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="ff31db3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg aria-hidden=\&quot;true\&quot; class=\&quot;e-font-icon-svg e-fas-caret-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M31.3 192h257.3c17.8 0 26.7 21.5 14.1 34.1L174.1 354.8c-7.8 7.8-20.5 7.8-28.3 0L17.2 226.1C4.6 213.5 13.5 192 31.3 192z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menu" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-ff31db3" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28315"><a href="https://www.youtube.com/@BrandMasterAcademy" class="elementor-item">Youtube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28316"><a href="http://instagram.com/stephenhouraghan" class="elementor-item">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28318"><a href="http://facebook.com/groups/brandmasteracademy" class="elementor-item">Facebook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28319"><a href="https://brandmasteracademy.com/contact-us/" class="elementor-item">Contact Us</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z"></path></svg><svg aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z"></path></svg>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-ff31db3" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28315"><a href="https://www.youtube.com/@BrandMasterAcademy" class="elementor-item" tabindex="-1">Youtube</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28316"><a href="http://instagram.com/stephenhouraghan" class="elementor-item" tabindex="-1">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28318"><a href="http://facebook.com/groups/brandmasteracademy" class="elementor-item" tabindex="-1">Facebook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28319"><a href="https://brandmasteracademy.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				</div>
+				</div>
+				</div>
+					</div>
+				</div>
+				</footer>
+		
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/brand-master-academy/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type='text/javascript'>( $ => {
+	/**
+	 * Displays toast message from storage, it is used when the user is redirected after login
+	 */
+	if ( window.sessionStorage ) {
+		$( window ).on( 'tcb_after_dom_ready', () => {
+			const message = sessionStorage.getItem( 'tcb_toast_message' );
+
+			if ( message ) {
+				tcbToast( sessionStorage.getItem( 'tcb_toast_message' ), false );
+				sessionStorage.removeItem( 'tcb_toast_message' );
+			}
+		} );
+	}
+
+	/**
+	 * Displays toast message
+	 *
+	 * @param {string}   message  - message to display
+	 * @param {Boolean}  error    - whether the message is an error or not
+	 * @param {Function} callback - callback function to be called after the message is closed
+	 */
+	function tcbToast( message, error, callback ) {
+		/* Also allow "message" objects */
+		if ( typeof message !== 'string' ) {
+			message = message.message || message.error || message.success;
+		}
+		if ( ! error ) {
+			error = false;
+		}
+		TCB_Front.notificationElement.toggle( message, error ? 'error' : 'success', callback );
+	}
+} )( typeof ThriveGlobal === 'undefined' ? jQuery : ThriveGlobal.$j );
+</script><style type="text/css" id="tve_notification_styles"></style>
+<div class="tvd-toast tve-fe-message" style="display: none">
+	<div class="tve-toast-message tve-success-message">
+		<div class="tve-toast-icon-container">
+			<span class="tve_tick thrv-svg-icon"></span>
+		</div>
+		<div class="tve-toast-message-container"></div>
+	</div>
+</div>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script>document.addEventListener("DOMContentLoaded", function () {
+  const trigger = document.querySelector('[data-elementor-open-popup="29802"]');
+  if (trigger) {
+    trigger.addEventListener("click", function (e) {
+      e.preventDefault();
+      elementorProFrontend.modules.popup.showPopup({ id: 29802 });
+    });
+  }
+});
+</script><style id='thrive-font-library-fonts-inline-css'>
+@font-face{font-family:Helvetica;font-style:normal;font-weight:400;src:url("https://brandmasteracademy.com/wp-content/uploads/fonts/Helvetica.ttf");}@font-face{font-family:Helvetica;font-style:normal;font-weight:700;src:url("https://brandmasteracademy.com/wp-content/uploads/fonts/Helvetica-Bold.ttf");}
+/*# sourceURL=thrive-font-library-fonts-inline-css */
+</style>
+<style id='core-block-supports-inline-css'>
+/**
+ * Core styles: block-supports
+ */
+
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://brandmasteracademy.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.9.6' media='all' />
+<script id="xpro-elementor-addons-widgets-js-extra">
+var XproElementorAddons = {"ajax_url":"https://brandmasteracademy.com/wp-admin/admin-ajax.php","nonce":"c33365ae90"};
+//# sourceURL=xpro-elementor-addons-widgets-js-extra
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/assets/js/xpro-widgets.js?ver=1.7.2" id="xpro-elementor-addons-widgets-js" async></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/sweetalert2.all.min.js?ver=3.0.6" id="sweetalert2-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.9.6" id="ekit-widget-scripts-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/themes/brand-master-academy/js/navigation.js?ver=1.0.0" id="bma-navigation-js"></script>
+<script id="tve-dash-frontend-js-extra">
+var tve_dash_front = {"ajaxurl":"https://brandmasteracademy.com/wp-admin/admin-ajax.php","force_ajax_send":"1","is_crawler":"","recaptcha":[],"turnstile":[],"post_id":"37146"};
+//# sourceURL=tve-dash-frontend-js-extra
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/thrive-product-manager/thrive-dashboard/js/dist/frontend.min.js?ver=10.9.1.4" id="tve-dash-frontend-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=4.1.1" id="elementor-webpack-runtime-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=4.1.1" id="elementor-frontend-modules-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":true},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"4.1.1","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/brandmasteracademy.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/brandmasteracademy.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/brandmasteracademy.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"061230b8ab","atomicFormsSendForm":"6bf1ce6aa7"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_share":"yes"},"post":{"id":0,"title":"Page not found - Brand Master Academy","excerpt":""}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor/assets/js/frontend.js?ver=4.1.1" id="elementor-frontend-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.js?ver=4.1.0" id="e-sticky-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/assets/vendor/js/anime.min.js?ver=3.0.1" id="anime-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/modules/floating-effect/js/floating-effect.min.js?ver=1.7.2" id="xpro-floating-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.js?ver=4.1.0" id="elementor-pro-webpack-runtime-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/brandmasteracademy.com\/wp-admin\/admin-ajax.php","nonce":"bbf10bdee6","urls":{"assets":"https:\/\/brandmasteracademy.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/brandmasteracademy.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/brandmasteracademy.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=4.1.0" id="elementor-pro-frontend-js"></script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.js?ver=4.1.0" id="pro-elements-handlers-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https://brandmasteracademy.com/wp-admin/admin-ajax.php","nonce":"2ab38d82b8"};
+//# sourceURL=elementskit-elementor-js-extra
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.9.6" id="elementskit-elementor-js"></script>
+<script id="xpro-elementor-widgetarea-editor-js-extra">
+var XproWidgetAreaEditorParams = {"rest_api_url":"https://brandmasteracademy.com/wp-json/","nonce":"7d18ec345d"};
+//# sourceURL=xpro-elementor-widgetarea-editor-js-extra
+</script>
+<script src="https://brandmasteracademy.com/wp-content/plugins/xpro-elementor-addons/inc/controls/assets/js/widgetarea-editor.js?ver=1.7.2" id="xpro-elementor-widgetarea-editor-js"></script>
+<script type="text/javascript">var tcb_current_post_lists=JSON.parse('[]'); var tcb_post_lists=tcb_post_lists?[...tcb_post_lists,...tcb_current_post_lists]:tcb_current_post_lists;</script><script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"wpemoji":"https://brandmasteracademy.com/wp-includes/js/wp-emoji.js?ver=6.9","twemoji":"https://brandmasteracademy.com/wp-includes/js/twemoji.js?ver=6.9"}}
+</script>
+<script type="module">
+/**
+ * @output wp-includes/js/wp-emoji-loader.js
+ */
+
+/* eslint-env es6 */
+
+// Note: This is loaded as a script module, so there is no need for an IIFE to prevent pollution of the global scope.
+
+/**
+ * Emoji Settings as exported in PHP via _print_emoji_detection_script().
+ * @typedef WPEmojiSettings
+ * @type {object}
+ * @property {?object} source
+ * @property {?string} source.concatemoji
+ * @property {?string} source.twemoji
+ * @property {?string} source.wpemoji
+ */
+
+const settings = /** @type {WPEmojiSettings} */ (
+	JSON.parse( document.getElementById( 'wp-emoji-settings' ).textContent )
+);
+
+// For compatibility with other scripts that read from this global, in particular wp-includes/js/wp-emoji.js (source file: js/_enqueues/wp/emoji.js).
+window._wpemojiSettings = settings;
+
+/**
+ * Support tests.
+ * @typedef SupportTests
+ * @type {object}
+ * @property {?boolean} flag
+ * @property {?boolean} emoji
+ */
+
+const sessionStorageKey = 'wpEmojiSettingsSupports';
+const tests = [ 'flag', 'emoji' ];
+
+/**
+ * Checks whether the browser supports offloading to a Worker.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @returns {boolean}
+ */
+function supportsWorkerOffloading() {
+	return (
+		typeof Worker !== 'undefined' &&
+		typeof OffscreenCanvas !== 'undefined' &&
+		typeof URL !== 'undefined' &&
+		URL.createObjectURL &&
+		typeof Blob !== 'undefined'
+	);
+}
+
+/**
+ * @typedef SessionSupportTests
+ * @type {object}
+ * @property {number} timestamp
+ * @property {SupportTests} supportTests
+ */
+
+/**
+ * Get support tests from session.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @returns {?SupportTests} Support tests, or null if not set or older than 1 week.
+ */
+function getSessionSupportTests() {
+	try {
+		/** @type {SessionSupportTests} */
+		const item = JSON.parse(
+			sessionStorage.getItem( sessionStorageKey )
+		);
+		if (
+			typeof item === 'object' &&
+			typeof item.timestamp === 'number' &&
+			new Date().valueOf() < item.timestamp + 604800 && // Note: Number is a week in seconds.
+			typeof item.supportTests === 'object'
+		) {
+			return item.supportTests;
+		}
+	} catch ( e ) {}
+	return null;
+}
+
+/**
+ * Persist the supports in session storage.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @param {SupportTests} supportTests Support tests.
+ */
+function setSessionSupportTests( supportTests ) {
+	try {
+		/** @type {SessionSupportTests} */
+		const item = {
+			supportTests: supportTests,
+			timestamp: new Date().valueOf()
+		};
+
+		sessionStorage.setItem(
+			sessionStorageKey,
+			JSON.stringify( item )
+		);
+	} catch ( e ) {}
+}
+
+/**
+ * Checks if two sets of Emoji characters render the same visually.
+ *
+ * This is used to determine if the browser is rendering an emoji with multiple data points
+ * correctly. set1 is the emoji in the correct form, using a zero-width joiner. set2 is the emoji
+ * in the incorrect form, using a zero-width space. If the two sets render the same, then the browser
+ * does not support the emoji correctly.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 4.9.0
+ *
+ * @private
+ *
+ * @param {CanvasRenderingContext2D} context 2D Context.
+ * @param {string} set1 Set of Emoji to test.
+ * @param {string} set2 Set of Emoji to test.
+ *
+ * @return {boolean} True if the two sets render the same.
+ */
+function emojiSetsRenderIdentically( context, set1, set2 ) {
+	// Cleanup from previous test.
+	context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+	context.fillText( set1, 0, 0 );
+	const rendered1 = new Uint32Array(
+		context.getImageData(
+			0,
+			0,
+			context.canvas.width,
+			context.canvas.height
+		).data
+	);
+
+	// Cleanup from previous test.
+	context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+	context.fillText( set2, 0, 0 );
+	const rendered2 = new Uint32Array(
+		context.getImageData(
+			0,
+			0,
+			context.canvas.width,
+			context.canvas.height
+		).data
+	);
+
+	return rendered1.every( ( rendered2Data, index ) => {
+		return rendered2Data === rendered2[ index ];
+	} );
+}
+
+/**
+ * Checks if the center point of a single emoji is empty.
+ *
+ * This is used to determine if the browser is rendering an emoji with a single data point
+ * correctly. The center point of an incorrectly rendered emoji will be empty. A correctly
+ * rendered emoji will have a non-zero value at the center point.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 6.8.2
+ *
+ * @private
+ *
+ * @param {CanvasRenderingContext2D} context 2D Context.
+ * @param {string} emoji Emoji to test.
+ *
+ * @return {boolean} True if the center point is empty.
+ */
+function emojiRendersEmptyCenterPoint( context, emoji ) {
+	// Cleanup from previous test.
+	context.clearRect( 0, 0, context.canvas.width, context.canvas.height );
+	context.fillText( emoji, 0, 0 );
+
+	// Test if the center point (16, 16) is empty (0,0,0,0).
+	const centerPoint = context.getImageData(16, 16, 1, 1);
+	for ( let i = 0; i < centerPoint.data.length; i++ ) {
+		if ( centerPoint.data[ i ] !== 0 ) {
+			// Stop checking the moment it's known not to be empty.
+			return false;
+		}
+	}
+
+	return true;
+}
+
+/**
+ * Determines if the browser properly renders Emoji that Twemoji can supplement.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 4.2.0
+ *
+ * @private
+ *
+ * @param {CanvasRenderingContext2D} context 2D Context.
+ * @param {string} type Whether to test for support of "flag" or "emoji".
+ * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+ * @param {Function} emojiRendersEmptyCenterPoint Reference to emojiRendersEmptyCenterPoint function, needed due to minification.
+ *
+ * @return {boolean} True if the browser can render emoji, false if it cannot.
+ */
+function browserSupportsEmoji( context, type, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint ) {
+	let isIdentical;
+
+	switch ( type ) {
+		case 'flag':
+			/*
+			 * Test for Transgender flag compatibility. Added in Unicode 13.
+			 *
+			 * To test for support, we try to render it, and compare the rendering to how it would look if
+			 * the browser doesn't render it correctly (white flag emoji + transgender symbol).
+			 */
+			isIdentical = emojiSetsRenderIdentically(
+				context,
+				'\uD83C\uDFF3\uFE0F\u200D\u26A7\uFE0F', // as a zero-width joiner sequence
+				'\uD83C\uDFF3\uFE0F\u200B\u26A7\uFE0F' // separated by a zero-width space
+			);
+
+			if ( isIdentical ) {
+				return false;
+			}
+
+			/*
+			 * Test for Sark flag compatibility. This is the least supported of the letter locale flags,
+			 * so gives us an easy test for full support.
+			 *
+			 * To test for support, we try to render it, and compare the rendering to how it would look if
+			 * the browser doesn't render it correctly ([C] + [Q]).
+			 */
+			isIdentical = emojiSetsRenderIdentically(
+				context,
+				'\uD83C\uDDE8\uD83C\uDDF6', // as the sequence of two code points
+				'\uD83C\uDDE8\u200B\uD83C\uDDF6' // as the two code points separated by a zero-width space
+			);
+
+			if ( isIdentical ) {
+				return false;
+			}
+
+			/*
+			 * Test for English flag compatibility. England is a country in the United Kingdom, it
+			 * does not have a two letter locale code but rather a five letter sub-division code.
+			 *
+			 * To test for support, we try to render it, and compare the rendering to how it would look if
+			 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+			 */
+			isIdentical = emojiSetsRenderIdentically(
+				context,
+				// as the flag sequence
+				'\uD83C\uDFF4\uDB40\uDC67\uDB40\uDC62\uDB40\uDC65\uDB40\uDC6E\uDB40\uDC67\uDB40\uDC7F',
+				// with each code point separated by a zero-width space
+				'\uD83C\uDFF4\u200B\uDB40\uDC67\u200B\uDB40\uDC62\u200B\uDB40\uDC65\u200B\uDB40\uDC6E\u200B\uDB40\uDC67\u200B\uDB40\uDC7F'
+			);
+
+			return ! isIdentical;
+		case 'emoji':
+			/*
+			 * Is there a large, hairy, humanoid mythical creature living in the browser?
+			 *
+			 * To test for Emoji 17.0 support, try to render a new emoji: Hairy Creature.
+			 *
+			 * The hairy creature emoji is a single code point emoji. Testing for browser
+			 * support required testing the center point of the emoji to see if it is empty.
+			 *
+			 * 0xD83E 0x1FAC8 (\uD83E\u1FAC8) == 🫈 Hairy creature.
+			 *
+			 * When updating this test, please ensure that the emoji is either a single code point
+			 * or switch to using the emojiSetsRenderIdentically function and testing with a zero-width
+			 * joiner vs a zero-width space.
+			 */
+			const notSupported = emojiRendersEmptyCenterPoint( context, '\uD83E\u1FAC8' );
+			return ! notSupported;
+	}
+
+	return false;
+}
+
+/**
+ * Checks emoji support tests.
+ *
+ * This function may be serialized to run in a Worker. Therefore, it cannot refer to variables from the containing
+ * scope. Everything must be passed by parameters.
+ *
+ * @since 6.3.0
+ *
+ * @private
+ *
+ * @param {string[]} tests Tests.
+ * @param {Function} browserSupportsEmoji Reference to browserSupportsEmoji function, needed due to minification.
+ * @param {Function} emojiSetsRenderIdentically Reference to emojiSetsRenderIdentically function, needed due to minification.
+ * @param {Function} emojiRendersEmptyCenterPoint Reference to emojiRendersEmptyCenterPoint function, needed due to minification.
+ *
+ * @return {SupportTests} Support tests.
+ */
+function testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint ) {
+	let canvas;
+	if (
+		typeof WorkerGlobalScope !== 'undefined' &&
+		self instanceof WorkerGlobalScope
+	) {
+		canvas = new OffscreenCanvas( 300, 150 ); // Dimensions are default for HTMLCanvasElement.
+	} else {
+		canvas = document.createElement( 'canvas' );
+	}
+
+	const context = canvas.getContext( '2d', { willReadFrequently: true } );
+
+	/*
+	 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+	 * it doesn't work when the font is bolder than 500 weight. So, we
+	 * check for bold rendering support to avoid invisible emoji in Chrome.
+	 */
+	context.textBaseline = 'top';
+	context.font = '600 32px Arial';
+
+	const supports = {};
+	tests.forEach( ( test ) => {
+		supports[ test ] = browserSupportsEmoji( context, test, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint );
+	} );
+	return supports;
+}
+
+/**
+ * Adds a script to the head of the document.
+ *
+ * @ignore
+ *
+ * @since 4.2.0
+ *
+ * @param {string} src The url where the script is located.
+ *
+ * @return {void}
+ */
+function addScript( src ) {
+	const script = document.createElement( 'script' );
+	script.src = src;
+	script.defer = true;
+	document.head.appendChild( script );
+}
+
+settings.supports = {
+	everything: true,
+	everythingExceptFlag: true
+};
+
+// Obtain the emoji support from the browser, asynchronously when possible.
+new Promise( ( resolve ) => {
+	let supportTests = getSessionSupportTests();
+	if ( supportTests ) {
+		resolve( supportTests );
+		return;
+	}
+
+	if ( supportsWorkerOffloading() ) {
+		try {
+			// Note that the functions are being passed as arguments due to minification.
+			const workerScript =
+				'postMessage(' +
+				testEmojiSupports.toString() +
+				'(' +
+				[
+					JSON.stringify( tests ),
+					browserSupportsEmoji.toString(),
+					emojiSetsRenderIdentically.toString(),
+					emojiRendersEmptyCenterPoint.toString()
+				].join( ',' ) +
+				'));';
+			const blob = new Blob( [ workerScript ], {
+				type: 'text/javascript'
+			} );
+			const worker = new Worker( URL.createObjectURL( blob ), { name: 'wpTestEmojiSupports' } );
+			worker.onmessage = ( event ) => {
+				supportTests = event.data;
+				setSessionSupportTests( supportTests );
+				worker.terminate();
+				resolve( supportTests );
+			};
+			return;
+		} catch ( e ) {}
+	}
+
+	supportTests = testEmojiSupports( tests, browserSupportsEmoji, emojiSetsRenderIdentically, emojiRendersEmptyCenterPoint );
+	setSessionSupportTests( supportTests );
+	resolve( supportTests );
+} )
+	// Once the browser emoji support has been obtained from the session, finalize the settings.
+	.then( ( supportTests ) => {
+		/*
+		 * Tests the browser support for flag emojis and other emojis, and adjusts the
+		 * support settings accordingly.
+		 */
+		for ( const test in supportTests ) {
+			settings.supports[ test ] = supportTests[ test ];
+
+			settings.supports.everything =
+				settings.supports.everything && settings.supports[ test ];
+
+			if ( 'flag' !== test ) {
+				settings.supports.everythingExceptFlag =
+					settings.supports.everythingExceptFlag &&
+					settings.supports[ test ];
+			}
+		}
+
+		settings.supports.everythingExceptFlag =
+			settings.supports.everythingExceptFlag &&
+			! settings.supports.flag;
+
+		// When the browser can not render everything we need to load a polyfill.
+		if ( ! settings.supports.everything ) {
+			const src = settings.source || {};
+
+			if ( src.concatemoji ) {
+				addScript( src.concatemoji );
+			} else if ( src.wpemoji && src.twemoji ) {
+				addScript( src.twemoji );
+				addScript( src.wpemoji );
+			}
+		}
+	} );
+//# sourceURL=https://brandmasteracademy.com/wp-includes/js/wp-emoji-loader.js
+</script>
+<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) {var TL_Const={"security":"3ab5442b9b","ajax_url":"https:\/\/brandmasteracademy.com\/wp-admin\/admin-ajax.php","action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","custom_post_data":[],"current_screen":{"screen_type":7,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"],"ajax_load":0};} else { window.TL_Front && TL_Front.extendConst && TL_Front.extendConst({"security":"3ab5442b9b","ajax_url":"https:\/\/brandmasteracademy.com\/wp-admin\/admin-ajax.php","action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","custom_post_data":[],"current_screen":{"screen_type":7,"screen_id":0},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin","tcb_token","tve_labels","tve_mapping","_api_custom_fields","_sendParams","_autofill"],"ajax_load":0})} /*]]> */</script><script>
+     /*----------- Sticky Header Start ------------*/
+
+     // Custom Sticky Header 
+     jQuery(window).scroll(function() {    
+         var height = jQuery(window).scrollTop(); 
+         if(height  > 100) {
+             jQuery(".bma_main_header").addClass('bma_sticky_header');
+         } else{
+             jQuery(".bma_main_header").removeClass('bma_sticky_header');
+         }
+     });
+     // Fallback
+     jQuery(window).on('load resize', function() {
+         var getHeaderHight = jQuery(".bma_main_header").height();
+         jQuery('.bma_sticky_header_fallback_heigh').css({
+          'height': getHeaderHight,
+          'min-height': getHeaderHight
+         });
+     });
+
+     /*----------- Sticky Header End ------------*/
+
+
+     /*----------- Header Mobile Menu Start ------------*/
+
+     jQuery('.bma_main_header:not(.bma_header_full_screen_style) .bma_header_mobile_menu_trigger').click(function(){
+          jQuery('.bma_header_mobile_menu_target').slideToggle('slow');
+     });
+
+     jQuery('.bma_main_header.bma_header_full_screen_style .bma_header_mobile_menu_trigger').click(function(){
+          jQuery('.bma_header_mobile_menu_target').fadeIn('slow');
+     });
+     jQuery('.bma_header_mobile_menu_close').click(function(){
+          jQuery('.bma_header_mobile_menu_target').fadeOut('slow');
+     });
+
+     /*----------- Header Mobile Menu End ------------*/
+
+
+     /*----------- Back To Top Start ------------*/
+
+     var back_to_top_btn = jQuery('.bma_back_to_top');
+     jQuery(window).scroll(function() {
+       if (jQuery(window).scrollTop() > 300) {
+         back_to_top_btn.addClass('show');
+       } else {
+         back_to_top_btn.removeClass('show');
+       }
+     });
+
+     back_to_top_btn.on('click', function(e) {
+       e.preventDefault();
+       jQuery('html, body').animate({scrollTop:0}, '300');
+     });
+
+     /*----------- Back To Top End ------------*/
+
+
+     /*----------- Smooth Scroll Start ------------*/
+
+     jQuery(function() {
+       jQuery('a[href*=#]:not([href=#])').click(function() {
+         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+           var target = jQuery(this.hash);
+           target = target.length ? target : jQuery('[name=' + this.hash.slice(1) +']');
+           if (target.length) {
+             jQuery('html,body').animate({
+               scrollTop: target.offset().top
+             }, 2000);
+             return false;
+           }
+         }
+       });
+     });
+
+     /*----------- Smooth Scroll End ------------*/
+</script>
+
+
+
+
+<script type='text/javascript'>
+document.tidioChatCode = "4wjnxwyslz6fqebkkuqbalxx9f78nkvx";
+(function() {
+  function asyncLoad() {
+    var tidioScript = document.createElement("script");
+    tidioScript.type = "text/javascript";
+    tidioScript.async = true;
+    tidioScript.src = "//code.tidio.co/4wjnxwyslz6fqebkkuqbalxx9f78nkvx.js";
+    document.body.appendChild(tidioScript);
+  }
+  if (window.attachEvent) {
+    window.attachEvent("onload", asyncLoad);
+  } else {
+    window.addEventListener("load", asyncLoad, false);
+  }
+})();
+</script>
+</body>
+</html>

@@ -342,7 +342,7 @@ function HeroSection() {
       <div className="grid min-h-[calc(100svh-64px)] md:min-h-[calc(100svh-68px)] md:grid-cols-2">
 
         {/* Left — text */}
-        <div className="flex items-center bg-[var(--ss-cream)] px-6 py-14 sm:px-10 md:px-10 lg:px-14 xl:px-20">
+        <div className="order-2 flex items-center bg-[var(--ss-cream)] px-6 py-14 sm:px-10 md:order-1 md:px-10 lg:px-14 xl:px-20">
           <div className="w-full max-w-[560px]">
             <motion.div initial={{ opacity: 0, y: 22 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}>
               <SectionEyebrow>FOR WELLNESS BUSINESS OWNERS</SectionEyebrow>
@@ -369,13 +369,13 @@ function HeroSection() {
         </div>
 
         {/* Right — photo */}
-        <div className="relative hidden min-h-[400px] md:block">
+        <div className="relative order-1 h-[55vw] min-h-[260px] md:order-2 md:h-auto md:min-h-[400px]">
           <Image
             src={HERO_IMAGE_SRC}
             alt="Wellness practitioner in their studio"
             fill
             priority
-            sizes="50vw"
+            sizes="(max-width: 768px) 100vw, 50vw"
             className="object-cover object-[center_30%]"
           />
           <div className="absolute inset-0 bg-[linear-gradient(to_right,rgba(20,13,9,0.18)_0%,rgba(20,13,9,0)_40%)]" />

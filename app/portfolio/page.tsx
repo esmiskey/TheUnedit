@@ -227,8 +227,8 @@ export default function PortfolioPage() {
       <Navbar />
 
       {/* Page header */}
-      <section className="pt-[64px]">
-        <div className="mx-auto max-w-[960px] px-5 pb-6 pt-16 sm:px-6 md:pt-20 lg:px-8 lg:pt-24 pl-[64px] md:pl-[76px] lg:pl-[84px]">
+      <section className="relative pt-[64px] bg-[var(--ss-cream)]">
+        <div className="mx-auto max-w-[960px] px-5 pb-8 pt-12 sm:px-6 lg:px-8 pl-[64px] md:pl-[76px] lg:pl-[84px]">
           <FadeIn>
             <p className="font-[family:var(--font-cinzel)] text-[11px] tracking-[0.22em] uppercase text-[var(--ss-bronze)]">
               Selected Work

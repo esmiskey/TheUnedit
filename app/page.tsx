@@ -123,7 +123,7 @@ function HeroSection() {
     <section className="relative min-h-screen overflow-hidden bg-[var(--ss-ink)] pt-[64px]">
       {/* Background image */}
       <Image
-        src="/new-hero-cover.jpg"
+        src="/new-hero-cover.png"
         alt=""
         fill
         priority

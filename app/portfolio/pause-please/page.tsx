@@ -111,7 +111,7 @@ export default function PausePleaseCaseStudy() {
       {/* ── Hero ── */}
       <section className="relative min-h-screen overflow-hidden">
         <Image
-          src="/pause-please/photos/pp-mat-scene.jpg"
+          src="/pause-please/photos/venlo-studio-3416.jpg"
           alt="Pause Please brand shoot — yoga mat ritual scene"
           fill
           priority

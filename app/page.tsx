@@ -123,7 +123,7 @@ function HeroSection() {
     <section className="relative min-h-screen overflow-hidden bg-[var(--ss-ink)] pt-[64px]">
       {/* Background image */}
       <Image
-        src="/new-hero-cover.png"
+        src="/new-hero-cover.jpg"
         alt=""
         fill
         priority
@@ -352,7 +352,7 @@ function TestimonialsSection() {
                 <p className="mb-1 font-[family:var(--font-cormorant)] text-[52px] leading-none text-[var(--ss-bronze)]/25">
                   &ldquo;
                 </p>
-                <blockquote className="font-[family:var(--font-cormorant)] text-[clamp(1.05rem,1.6vw,1.25rem)] italic leading-[1.65] tracking-[-0.01em] text-[var(--ss-dark-text)]">
+                <blockquote className="font-[family:var(--font-cormorant)] text-[clamp(1.05rem,1.6vw,1.25rem)] leading-[1.65] tracking-[-0.01em] text-[var(--ss-dark-text)]">
                   {t.quote}
                 </blockquote>
                 <div className="mt-6 border-t border-[var(--ss-soft-border)] pt-5">

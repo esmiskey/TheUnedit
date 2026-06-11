@@ -369,25 +369,25 @@ export default function PausePleaseCaseStudy() {
           <div className="grid gap-4 sm:grid-cols-12">
             <FadeIn className="sm:col-span-7">
               <div className="relative overflow-hidden rounded-[4px]" style={{ height: 500 }}>
-                <Image src="/pause-please/photos/pp-portrait.jpg" alt="Pause Please founder portrait" fill sizes="(max-width:640px) 100vw, 58vw" className="object-cover object-top" />
+                <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder with coffee mug" fill sizes="(max-width:640px) 100vw, 58vw" className="object-cover object-top" />
               </div>
             </FadeIn>
             <FadeIn delay={0.08} className="sm:col-span-5 flex flex-col gap-4">
               <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
-                <Image src="/pause-please/photos/pp-bouquet.jpg" alt="Peony bouquet" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
+                <Image src="/pause-please/photos/venlo-studio-3496.jpg" alt="Founder in kitchen" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
               </div>
               <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
-                <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-top" />
+                <Image src="/pause-please/photos/pp-bouquet.jpg" alt="Peony bouquet" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
               </div>
             </FadeIn>
             <FadeIn delay={0.05} className="sm:col-span-8">
               <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
-                <Image src="/pause-please/photos/pp-yoga-mat.jpg" alt="Rolling out branded yoga mat" fill sizes="(max-width:640px) 100vw, 67vw" className="object-cover object-center" />
+                <Image src="/pause-please/photos/venlo-studio-3333.jpg" alt="Ayurveda oils and wellness ritual" fill sizes="(max-width:640px) 100vw, 67vw" className="object-cover object-center" />
               </div>
             </FadeIn>
             <FadeIn delay={0.12} className="sm:col-span-4">
               <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
-                <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder lifestyle shot" fill sizes="(max-width:640px) 100vw, 33vw" className="object-cover object-top" />
+                <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" fill sizes="(max-width:640px) 100vw, 33vw" className="object-cover object-top" />
               </div>
             </FadeIn>
           </div>

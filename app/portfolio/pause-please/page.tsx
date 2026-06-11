@@ -361,14 +361,37 @@ export default function PausePleaseCaseStudy() {
               The brand, applied.
             </h2>
           </FadeIn>
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {mockups.map((item, i) => (
-              <FadeIn key={item.alt} delay={0.05 * i}>
-                <div className="relative overflow-hidden rounded-[4px]" style={{ height: 340 }}>
-                  <Image src={item.src} alt={item.alt} fill sizes="(max-width:640px) 100vw, (max-width:1024px) 50vw, 33vw" className="object-cover object-center" />
+
+          {/* Row 1 — two side by side */}
+          <div className="grid gap-4 sm:grid-cols-2" style={{ marginBottom: 16 }}>
+            <FadeIn>
+              <Image src="/pause-please/stock/pp-candle-mockup.png" alt="Candle with Pause Please label" width={1200} height={1200} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
+            </FadeIn>
+            <FadeIn delay={0.08}>
+              <Image src="/pause-please/stock/pp-tote-overhead.png" alt="Branded tote bag" width={1200} height={1200} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
+            </FadeIn>
+          </div>
+
+          {/* Row 2 — full width with logo overlay */}
+          <FadeIn delay={0.05}>
+            <div className="relative overflow-hidden rounded-[4px]">
+              <Image src="/pause-please/stock/notebook-roses.jpg" alt="Notebook with roses" width={2400} height={1600} style={{ width: "100%", height: "auto", display: "block" }} />
+              <div className="absolute inset-0 flex items-center justify-center" style={{ background: "rgba(14,18,18,0.18)" }}>
+                <div className="relative" style={{ width: "28%", maxWidth: 320 }}>
+                  <Image src="/pause-please/logos/Pause-Please-Primary-Logo-ivory-blush-transparent.png" alt="Pause Please logo" width={640} height={320} style={{ width: "100%", height: "auto", filter: "brightness(0) invert(1)", opacity: 0.92 }} />
                 </div>
-              </FadeIn>
-            ))}
+              </div>
+            </div>
+          </FadeIn>
+
+          {/* Row 3 — two side by side */}
+          <div className="grid gap-4 sm:grid-cols-2" style={{ marginTop: 16 }}>
+            <FadeIn delay={0.05}>
+              <Image src="/pause-please/stock/pp-cup-blossoms.png" alt="Branded cup with blossoms" width={1200} height={1200} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
+            </FadeIn>
+            <FadeIn delay={0.1}>
+              <Image src="/pause-please/stock/pp-serum-bottle.png" alt="Branded serum bottle" width={1200} height={1200} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
+            </FadeIn>
           </div>
         </div>
       </section>

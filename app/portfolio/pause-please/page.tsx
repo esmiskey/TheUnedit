@@ -312,44 +312,6 @@ export default function PausePleaseCaseStudy() {
         </div>
       </section>
 
-      {/* ── Photo gallery ── */}
-      <section style={{ background: PP.ivory }}>
-        <div className="mx-auto max-w-[1400px] px-6 py-20 lg:px-16 lg:py-28">
-          <FadeIn>
-            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 48 }}>
-              Brand Photography
-            </p>
-          </FadeIn>
-
-          {/* Asymmetric editorial grid */}
-          <div className="grid gap-4 sm:grid-cols-12">
-            <FadeIn className="sm:col-span-7">
-              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 500 }}>
-                <Image src="/pause-please/photos/pp-portrait.jpg" alt="Pause Please founder portrait" fill sizes="(max-width:640px) 100vw, 58vw" className="object-cover object-top" />
-              </div>
-            </FadeIn>
-            <FadeIn delay={0.08} className="sm:col-span-5 flex flex-col gap-4">
-              <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
-                <Image src="/pause-please/photos/pp-bouquet.jpg" alt="Peony bouquet" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
-              </div>
-              <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
-                <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-top" />
-              </div>
-            </FadeIn>
-            <FadeIn delay={0.05} className="sm:col-span-8">
-              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
-                <Image src="/pause-please/photos/pp-yoga-mat.jpg" alt="Rolling out branded yoga mat" fill sizes="(max-width:640px) 100vw, 67vw" className="object-cover object-center" />
-              </div>
-            </FadeIn>
-            <FadeIn delay={0.12} className="sm:col-span-4">
-              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
-                <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder lifestyle shot" fill sizes="(max-width:640px) 100vw, 33vw" className="object-cover object-top" />
-              </div>
-            </FadeIn>
-          </div>
-        </div>
-      </section>
-
       {/* ── Brand in the world ── */}
       <section style={{ background: PP.petal }}>
         <div className="mx-auto max-w-[1400px] px-6 py-20 lg:px-16 lg:py-28">
@@ -391,6 +353,42 @@ export default function PausePleaseCaseStudy() {
             </FadeIn>
             <FadeIn delay={0.1}>
               <Image src="/pause-please/stock/pp-serum-bottle.png" alt="Branded serum bottle" width={1200} height={1200} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
+            </FadeIn>
+          </div>
+        </div>
+      </section>
+
+      {/* ── Photo gallery ── */}
+      <section style={{ background: PP.ivory }}>
+        <div className="mx-auto max-w-[1400px] px-6 py-20 lg:px-16 lg:py-28">
+          <FadeIn>
+            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 48 }}>
+              Brand Photography
+            </p>
+          </FadeIn>
+          <div className="grid gap-4 sm:grid-cols-12">
+            <FadeIn className="sm:col-span-7">
+              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 500 }}>
+                <Image src="/pause-please/photos/pp-portrait.jpg" alt="Pause Please founder portrait" fill sizes="(max-width:640px) 100vw, 58vw" className="object-cover object-top" />
+              </div>
+            </FadeIn>
+            <FadeIn delay={0.08} className="sm:col-span-5 flex flex-col gap-4">
+              <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
+                <Image src="/pause-please/photos/pp-bouquet.jpg" alt="Peony bouquet" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-center" />
+              </div>
+              <div className="relative flex-1 overflow-hidden rounded-[4px]" style={{ minHeight: 240 }}>
+                <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" fill sizes="(max-width:640px) 100vw, 42vw" className="object-cover object-top" />
+              </div>
+            </FadeIn>
+            <FadeIn delay={0.05} className="sm:col-span-8">
+              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
+                <Image src="/pause-please/photos/pp-yoga-mat.jpg" alt="Rolling out branded yoga mat" fill sizes="(max-width:640px) 100vw, 67vw" className="object-cover object-center" />
+              </div>
+            </FadeIn>
+            <FadeIn delay={0.12} className="sm:col-span-4">
+              <div className="relative overflow-hidden rounded-[4px]" style={{ height: 420 }}>
+                <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder lifestyle shot" fill sizes="(max-width:640px) 100vw, 33vw" className="object-cover object-top" />
+              </div>
             </FadeIn>
           </div>
         </div>

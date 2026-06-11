@@ -123,7 +123,7 @@ export default function PausePleaseCaseStudy() {
         <div className="absolute inset-0" style={{ background: "linear-gradient(to right, rgba(10,7,5,0.52) 0%, rgba(10,7,5,0) 60%)" }} />
 
         {/* Content — bottom left */}
-        <div className="relative z-10 flex min-h-screen flex-col justify-end px-6 pb-16 lg:px-16 lg:pb-24">
+        <div className="relative z-10 flex min-h-screen flex-col items-center justify-center px-6 pb-16 text-center lg:px-16 lg:pb-24">
           <motion.div
             initial={{ opacity: 0, y: 44 }}
             animate={{ opacity: 1, y: 0 }}

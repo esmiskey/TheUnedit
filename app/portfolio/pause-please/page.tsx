@@ -358,62 +358,26 @@ export default function PausePleaseCaseStudy() {
         </div>
       </section>
 
-      {/* ── Photo gallery ── */}
+      {/* ── Photo + Quote ── */}
       <section style={{ background: PP.ivory }}>
         <div className="mx-auto max-w-[1400px] px-6 py-20 lg:px-16 lg:py-28">
           <FadeIn>
-            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 48 }}>
-              Brand Photography
-            </p>
-          </FadeIn>
-          <div className="grid gap-4 sm:grid-cols-2" style={{ marginBottom: 16 }}>
-            <FadeIn>
+            <div className="grid gap-12 lg:grid-cols-2 lg:items-center">
               <Image src="/pause-please/photos/pp-couch.jpg" alt="Founder with coffee mug" width={1200} height={1500} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
-            </FadeIn>
-            <FadeIn delay={0.08}>
-              <Image src="/pause-please/photos/venlo-studio-3496.jpg" alt="Founder in kitchen" width={1600} height={1067} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
-            </FadeIn>
-          </div>
-          <div className="grid gap-4 sm:grid-cols-2">
-            <FadeIn delay={0.05}>
-              <Image src="/pause-please/photos/venlo-studio-3333.jpg" alt="Ayurveda oils and wellness ritual" width={1600} height={1067} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
-            </FadeIn>
-            <FadeIn delay={0.1}>
-              <Image src="/pause-please/photos/pp-ritual.jpg" alt="Wellness ritual setup" width={1200} height={1500} style={{ width: "100%", height: "auto", display: "block", borderRadius: 4 }} />
-            </FadeIn>
-          </div>
+              <div>
+                <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.peony, marginBottom: 32 }}>
+                  Client Love
+                </p>
+                <blockquote style={{ fontFamily: "var(--font-cormorant)", fontSize: "clamp(1.8rem, 2.8vw, 2.6rem)", lineHeight: 1.2, letterSpacing: "-0.02em", color: PP.onyx }}>
+                  &ldquo;When she shared the final work it brought a tear to my eye. She truly captured everything — the words, the aesthetic, all of it.&rdquo;
+                </blockquote>
+                <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 9, letterSpacing: "0.26em", color: `${PP.onyx}60`, marginTop: 28 }}>
+                  — KAYLYNN B., OWNER OF PAUSE PLEASE
+                </p>
+              </div>
+            </div>
+          </FadeIn>
         </div>
-      </section>
-
-      {/* ── Pattern / quote ── */}
-      <section className="relative overflow-hidden py-28" style={{ background: PP.fern }}>
-        <div
-          className="absolute inset-0 opacity-[0.14]"
-          style={{
-            backgroundImage: `url(/pause-please/patterns/Peony-Pattern.png)`,
-            backgroundSize: "420px",
-            backgroundRepeat: "repeat",
-          }}
-        />
-        <FadeIn className="relative z-10 mx-auto max-w-[760px] px-6 text-center">
-          <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: PP.petal, marginBottom: 28 }}>
-            Client Love
-          </p>
-          <blockquote
-            style={{
-              fontFamily: "var(--font-cormorant)",
-              fontSize: "clamp(1.65rem, 3vw, 2.3rem)",
-              lineHeight: 1.18,
-              letterSpacing: "-0.02em",
-              color: PP.ivory,
-            }}
-          >
-            &ldquo;When she shared the final work it brought a tear to my eye. She truly captured everything — the words, the aesthetic, all of it.&rdquo;
-          </blockquote>
-          <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 9, letterSpacing: "0.26em", color: `${PP.petal}80`, marginTop: 24 }}>
-            — KAYLYNN B., OWNER OF PAUSE PLEASE
-          </p>
-        </FadeIn>
       </section>
 
       {/* ── CTA ── */}

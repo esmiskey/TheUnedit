@@ -134,6 +134,7 @@ const projects = [
     href: "/portfolio/pause-please",
     hero: "/pause-please/photos/venlo-studio-3299.jpg",
     logo: "/pause-please/logos/Pause-Please-Primary-Logo-Peony-transparent.png",
+    imageFilter: undefined as string | undefined,
   },
   {
     id: "02",
@@ -143,6 +144,7 @@ const projects = [
     href: "/portfolio/forward-outdoor",
     hero: "/forward-outdoor/photos/fo-trail-low.jpg",
     logo: "/forward-outdoor/logos/fo-logo-navy-horz.png",
+    imageFilter: undefined as string | undefined,
   },
 ];
 

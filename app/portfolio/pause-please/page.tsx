@@ -61,7 +61,7 @@ const logos = [
   {
     src:   "/pause-please/logos/Pause-Please-Primary-Logo-ivory-blush-transparent.png",
     bg:    PP.fern,
-    label: "PRIMARY — IVORY",
+    label: "PRIMARY — IVORY BLUSH",
     light: true,
   },
   {
@@ -71,9 +71,9 @@ const logos = [
     light: false,
   },
   {
-    src:   "/pause-please/logos/Pause-Please-mark-basil-transparent.png",
-    bg:    PP.petal,
-    label: "MARK — BASIL",
+    src:   "/pause-please/logos/Pause-Please-Primary-Logo-greens-transparent.png",
+    bg:    PP.ivory,
+    label: "PRIMARY — FERN",
     light: false,
   },
 ];
@@ -282,7 +282,7 @@ export default function PausePleaseCaseStudy() {
             <div className="grid grid-cols-3 gap-3 sm:grid-cols-6">
               {palette.map((c) => (
                 <div key={c.name}>
-                  <div className="h-20 rounded-[4px]" style={{ background: c.hex }} />
+                  <div className="h-20 rounded-[4px]" style={{ background: c.hex, border: "1px solid rgba(255,255,255,0.18)" }} />
                   <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 8, letterSpacing: "0.18em", color: PP.ivory, marginTop: 8 }}>{c.name}</p>
                   <p style={{ fontSize: 10, color: `${PP.ivory}66`, marginTop: 2 }}>{c.hex}</p>
                 </div>

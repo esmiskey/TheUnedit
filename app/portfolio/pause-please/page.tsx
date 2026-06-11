@@ -237,9 +237,10 @@ export default function PausePleaseCaseStudy() {
           alt="Journaling with peonies"
           fill
           sizes="100vw"
-          className="object-cover object-center"
+          className="object-cover"
+          style={{ filter: "grayscale(1) contrast(1.35) brightness(1.08)", objectPosition: "center 70%" }}
         />
-        <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, rgba(33,58,37,0.2) 0%, rgba(33,58,37,0) 50%, rgba(33,58,37,0.15) 100%)" }} />
+        <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, rgba(14,18,18,0.18) 0%, rgba(14,18,18,0) 50%, rgba(14,18,18,0.18) 100%)" }} />
       </div>
 
       {/* ── Brand identity — dark fern ── */}
@@ -309,6 +310,72 @@ export default function PausePleaseCaseStudy() {
               ))}
             </div>
           </FadeIn>
+        </div>
+      </section>
+
+      {/* ── Brand Guide spread ── */}
+      <section style={{ background: PP.onyx }}>
+        <div className="mx-auto max-w-[1400px] px-6 py-20 lg:px-16 lg:py-28">
+          <FadeIn>
+            <p style={{ fontFamily: "var(--font-cinzel)", fontSize: 10, letterSpacing: "0.28em", textTransform: "uppercase", color: "var(--ss-bronze-soft)", marginBottom: 12 }}>
+              Brand Guide
+            </p>
+            <h2 style={{ fontFamily: "var(--font-cormorant)", fontSize: "clamp(2rem, 3vw, 2.6rem)", lineHeight: 1.06, letterSpacing: "-0.03em", color: PP.ivory, marginBottom: 48 }}>
+              Every rule, every reason, documented.
+            </h2>
+          </FadeIn>
+
+          {/* Cover page — full width */}
+          <FadeIn>
+            <div className="overflow-hidden rounded-[4px]" style={{ boxShadow: "0 32px 80px rgba(0,0,0,0.55), 0 8px 24px rgba(0,0,0,0.35)" }}>
+              <Image
+                src="/pause-please/guide/pp-guide-cover.png"
+                alt="Pause Please Brand Guide — Cover"
+                width={2400}
+                height={1350}
+                style={{ width: "100%", height: "auto", display: "block" }}
+              />
+            </div>
+          </FadeIn>
+
+          {/* Inspiration & Purpose — logo anatomy breakdown */}
+          <FadeIn delay={0.05}>
+            <div className="mt-4 overflow-hidden rounded-[4px]" style={{ boxShadow: "0 24px 60px rgba(0,0,0,0.5), 0 6px 18px rgba(0,0,0,0.3)" }}>
+              <Image
+                src="/pause-please/guide/pp-guide-purpose.png"
+                alt="Pause Please Brand Guide — Inspiration & Purpose"
+                width={2400}
+                height={1350}
+                style={{ width: "100%", height: "auto", display: "block" }}
+              />
+            </div>
+          </FadeIn>
+
+          {/* Interior spreads — logo suite + colors side by side */}
+          <div className="mt-4 grid gap-4 sm:grid-cols-2">
+            <FadeIn delay={0.05}>
+              <div className="overflow-hidden rounded-[4px]" style={{ boxShadow: "0 24px 60px rgba(0,0,0,0.5), 0 6px 18px rgba(0,0,0,0.3)" }}>
+                <Image
+                  src="/pause-please/guide/pp-guide-logos.png"
+                  alt="Pause Please Brand Guide — Logo Suite"
+                  width={2400}
+                  height={1350}
+                  style={{ width: "100%", height: "auto", display: "block" }}
+                />
+              </div>
+            </FadeIn>
+            <FadeIn delay={0.1}>
+              <div className="overflow-hidden rounded-[4px]" style={{ boxShadow: "0 24px 60px rgba(0,0,0,0.5), 0 6px 18px rgba(0,0,0,0.3)" }}>
+                <Image
+                  src="/pause-please/guide/pp-guide-colors.png"
+                  alt="Pause Please Brand Guide — Color & Typography"
+                  width={2400}
+                  height={1350}
+                  style={{ width: "100%", height: "auto", display: "block" }}
+                />
+              </div>
+            </FadeIn>
+          </div>
         </div>
       </section>
 
